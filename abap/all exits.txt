@@ -1,0 +1,2909 @@
+Function group Function group short text
+
+Name of function module Short text for function module
+
+PA12 Client exists HR Belgium
+
+EXIT_RPCALCB0_001 Usage of additional fields in payroll daydetails
+
+X050 FI ALE: User Exits (SAPLF050)
+
+EXIT_SAPLF050_001 Outgoing IDoc: Fill User-Specific IDoc Segment
+
+EXIT_SAPLF050_002 Incoming IDoc: Read User-Specific IDoc Segment
+
+EXIT_SAPLF050_003 FIDCC1 Outgoing IDoc: Change/Do Not Send Document Data
+
+EXIT_SAPLF050_004 FIDCC1 Incoming IDoc: Change/Do Not Process IDoc
+
+EXIT_SAPLF050_005 FIDCC2 Outgoing IDoc: Change/Do Not Send Document Data
+
+EXIT_SAPLF050_006 FIDCC2 Incoming IDoc: Change/Do Not Process IDoc
+
+EXIT_SAPLF050_007 Outgoing IDoc: Change/Do Not Send Complete IDoc
+
+EXIT_SAPLF050_008 Incoming IDoc: Change Fields in ACC Structures (FI Document)
+
+EXIT_SAPLF050_009 Incoming IDoc: Change Fields in Parked Document
+
+EXIT_SAPLF050_010 Outgoing IDoc: Reset Clearing Information in FI Document
+
+X104 User Exits for Bad Debt Reserves
+
+EXIT_SAPF104_001 Calculate Percentage for Bad Debt Reserves
+
+X110 User Exits for Payment Program SAPF110S
+
+EXIT_SAPF110S_001 User Exit for Bank Determination in Payment Program SAPF110S
+
+X11X User Exits for IDOC FIPARQ01 (SAPLF11A)
+
+EXIT_SAPLF11A_001 User Exit: Message Type FIPAYM, Header Data, Output
+
+EXIT_SAPLF11A_002 User Exit: Message Type FIPAYM, Reference Data, Output
+
+EXIT_SAPLF11A_003 User Exit: Message Type FIPAYM, Bank Data, Output
+
+EXIT_SAPLF11A_004 User Exit: Message Type FIPAYM, G/L Data, Output
+
+EXIT_SAPLF11A_005 User Exit: Message Type FIPAYM, Partner Data, Output
+
+X150 User Exits for Dunning Program
+
+EXIT_SAPF150D_001 User Exit for Dunn.Notices by Fax in Dunn.Notice Print Program SAPF150D
+
+X200 Enhancements for Time Recording
+
+EXIT_MP200000_001 Customer-specific default values for activity allocation
+
+EXIT_MP200000_002 Customer-specific default values for cost assignment
+
+EXIT_MP200000_003 Customer-specific default values for external services
+
+EXIT_MP200000_004 Customer-specific validation for activity allocation
+
+EXIT_MP200000_005 Customer-Specific Default Value for Att./Abs. Type for Weekly Recording
+
+EXIT_MP200000_006 Customer-Specific Validation of All Data Records in Weekly Calendar
+
+X406 HR-PSG: User Exits Public Sector Germany
+
+EXIT_MP040600_000 Individual Fill of Fields in Infotype 0406
+
+EXIT_RPCZVMD0_001 SPF: User Exit for Distribution Key for Creating SP Notifications
+
+EXIT_RPCZVMD1_001 SPF: Exit for Additional Fields for Printing SP Notifications
+
+EXIT_RPLEROD0_000 RPLEROD0: Determine Pension Center and Alternative Personnel Number
+
+EXIT_RPLEROD0_001 User Exit G131: Fill Additional Fields in HRG131_ERSTATTUNG
+
+EXIT_RPLRZAD0_000 Create Additional Lists for Pension Information Procedure
+
+X45L User Exits for SAPLV45L
+
+EXIT_SAPFV45L_001 Edit Automatically Generated Planning Delivery Schedule Line
+
+EXIT_SAPFV45L_002 Change Calendar used for Deliv. Sched. Split in SAP Standard: KUWEV-KNFAK
+
+EXIT_SAPFV45L_003 Proposal Cumulative Quantity Received by Customer
+
+EXIT_SAPLV45L_001 SD Component Processing: Release - Deviation Check
+
+EXIT_SAPLV45L_002 SD Component Supply Processing: Supplement VBLB Structure
+
+X45T Text Determination: Customer Exits
+
+EXIT_SAPLV45T_001 Customer Exits for SD Text Determination
+
+X45W User Exits for SAPLV45W
+
+EXIT_SAPLV45W_001 SD Service Management: Forward Contract Data to Item
+
+X50C User Exits in the Payroll Menu
+
+EXIT_SAPMP50C_001 Payroll Menu: Determine the Name of the Customer Report to be Called Up
+
+X50G User exit for selecting decl. to auth.
+
+EXIT_SAPLV50G_001 Periodic declarations: User exit data selection: Selection
+
+EXIT_SAPLV50G_002 Periodic declarations: User exit data selection: DB update
+
+X60E USER-EXITS for Plnd Independent Rqmts
+
+EXIT_SAPLM60E_001 User Exit for Planned Independent Requirements Management
+
+EXIT_SAPLM60E_002 USER-EXIT at End of Planned Independent Requirement Maintenance
+
+X60F User Exits for SAPLV60F
+
+EXIT_SAPLV60F_001 Editing the Proposed Different Billing Date
+
+X60P User Exits for SAPLM60P
+
+EXIT_SAPLM60P_001 User Exit: Interpretation of Object Dependencies for Characteristics Plng
+
+EXIT_SAPLM60P_002 User Exit: Explanation Component for Actions and Complexes.Obj.Dependency
+
+EXIT_SAPLM60P_003 Creation of Superior Instance
+
+X61A Customer Enhancement: Pricing
+
+EXIT_SAPLV61A_002 Customer Exit : Pricing - Rounding Rule
+
+X62100 Customer Functions Group 00
+
+EXIT_SAPLIB00_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB00_002 Customer Function for Inbound Processing
+
+X62101 Customer Functions Group 01
+
+EXIT_SAPLIB01_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB01_002 Customer Function for Inbound Processing
+
+X62102 Customer Functions Group 02
+
+EXIT_SAPLIB02_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB02_002 Customer Function for Inbound Processing
+
+X62103 Customer Functions Group 03
+
+EXIT_SAPLIB03_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB03_002 Customer Function for Inbound Processing
+
+X62104 Customer Functions Group 04
+
+EXIT_SAPLIB04_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB04_002 Customer Function for Inbound Processing
+
+X62105 Customer Functions Group 05
+
+EXIT_SAPLIB05_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB05_002 Customer Function for Inbound Processing
+
+X62106 Customer Functions Group 06
+
+EXIT_SAPLIB06_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB06_002 Customer Function for Inbound Processing
+
+X62107 Customer Functions Group 07
+
+EXIT_SAPLIB07_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB07_002 Customer Function for Inbound Processing
+
+X62108 Customer Functions Group 08
+
+EXIT_SAPLIB08_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB08_002 Customer Function for Inbound Processing
+
+X62109 Customer Functions Group 09
+
+EXIT_SAPLIB09_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB09_002 Customer Function for Inbound Processing
+
+X62110 Customer Functions Group 10
+
+EXIT_SAPLIB10_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB10_002 Customer Function for Inbound Processing
+
+X62111 Customer Functions Group 11
+
+EXIT_SAPLIB11_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB11_002 Customer Function for Inbound Processing
+
+X62112 Customer Functions Group 12
+
+EXIT_SAPLIB12_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB12_002 Customer Function for Inbound Processing
+
+X62113 Customer Functions Group 13
+
+EXIT_SAPLIB13_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB13_002 Customer Function for Inbound Processing
+
+X62114 Customer Functions Group 14
+
+EXIT_SAPLIB14_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB14_002 Customer Function for Inbound Processing
+
+X62115 Customer Functions Group 15
+
+EXIT_SAPLIB15_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB15_002 Customer Function for Inbound Processing
+
+X62116 Customer Functions Group 16
+
+EXIT_SAPLIB16_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB16_002 Customer Function for Inbound Processing
+
+X62117 Customer Functions Group 17
+
+EXIT_SAPLIB17_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB17_002 Customer Function for Inbound Processing
+
+X62118 Customer Functions Group 18
+
+EXIT_SAPLIB18_001 Customer Function for Outbound Processing
+
+EXIT_SAPLIB18_002 Customer Function for Inbound Processing
+
+XAAPM User Exits for Integration FI-AA / PM
+
+EXIT_SAPLAAPM_001 User Exit for Deriving Asset Class from Fields of Plant Maintenance
+
+EXIT_SAPLAAPM_002 User Exit for Deriving Equipment Category from Fields of Asset Accounting
+
+XABP System-level enhancements
+
+EXIT_SAPLARFC_001 Asynchronous RFC: Parameter Settings
+
+XACC User Exits for Development Class ACID
+
+EXIT_SAPLACC1_011 IDoc ACLREC: User Exit for Customer in Accounting Document
+
+EXIT_SAPLACC1_012 IDoc ACLREC: User Exit for G/L Account Posting in Accounting Document
+
+EXIT_SAPLACC1_013 IDoc ACLREC: User Exit for Taxes in Accounting Document
+
+EXIT_SAPLACC1_021 IDoc ACPJOU: User Exit for G/L Account Posting in Accounting Document
+
+EXIT_SAPLACC1_031 IDoc ACLPAY: User Exit for Vendor in Accounting Document
+
+EXIT_SAPLACC1_032 IDoc ACLPAY: User Exit for G/L Account Posting in Accounting Document
+
+EXIT_SAPLACC1_033 IDoc ACLPAY: User Exit for Taxes in Accounting Document
+
+EXIT_SAPLACC2_020 IDoc ACPJOU: User Exit for G/L Acct Posting in Accounting Document Header
+
+EXIT_SAPLACC2_021 IDoc ACPJOU: User Exit for G/L Account Posting in Accounting Document Item
+
+EXIT_SAPLACC2_030 IDoc ACLPAY: User Exit for Header in Accounting Document (Outgoing)
+
+EXIT_SAPLACC2_031 IDoc ACLPAY: User Exit for Vendor Item in Accounting Document (Outgoing)
+
+EXIT_SAPLACC2_032 IDoc ACLPAY: User Exit for General Item in Accounting Document (Outgoing)
+
+EXIT_SAPLACC2_033 IDoc ACLPAY: User Exit for Tax Item in Accounting Document (Outgoing)
+
+EXIT_SAPLACC2_040 IDoc ACCONF: Confirmation of Processing in the Application
+
+EXIT_SAPLACC4_001 Accounting: User Exit for Posting BAPI
+
+XACK User Exits for ATP Information
+
+EXIT_SAPLW61V_001 User Exit for Determining Checking Rule and Plant
+
+XAD1 DI Processor: User Exits
+
+EXIT_SAPLAD12_003 Enhancement To Be Filled By User-Defined Independent Characteristics
+
+EXIT_SAPLAD12_004 Enhancement To Be Filled By Dependent Characteristics
+
+EXIT_SAPLAD14_006 Exit: DP Processor Menu (Screen 100)
+
+EXIT_SAPLAD14_008 Change Text for Menu Exit
+
+EXIT_SAPLAD15_001 Change Object List and Hierarchy
+
+EXIT_SAPLAD15_005 Read User-Defined Sources
+
+EXIT_SAPLAD15_010 Source Filter (Not Available For All Sources)
+
+EXIT_SAPLAD1C_002 Change COSEL
+
+XAFA User Exit for Depreciation Calc.Key
+
+EXIT_SAPLAFAR_001 Allows Modification of Base Value for Depreciation Calculation
+
+EXIT_SAPLAFAR_002 Customer-Specific Calculation of Depreciation on Transaction
+
+EXIT_SAPLAFAR_003 Customer-Specific Changeover Method
+
+EXIT_SAPLAFAR_004 Customer-Specific Determination of Proportional Values at Retirement
+
+XAGX Agency Business: User Exits 3
+
+EXIT_SAPLWLF8_001 Agency Business: Document Transfer Print Program
+
+EXIT_SAPLWLFY_001 Enhancement: Agency Business: Payment Advice Formatting Print Program
+
+EXIT_SAPLWLFY_002 Enhancement: Agency Business: Print Formatting
+
+EXIT_SAPLWLFY_003 Agency Business: Enhancement: Line Structure Print Output
+
+EXIT_SAPLWLFY_004 Agency Bus.: Enhancement Line Structure Print Output Payment Advice Close
+
+XAI1 User Fields for App. Req. Master Data
+
+EXIT_SAPLAIA1_001 Transfer of Activity Category to Customer Exit
+
+EXIT_SAPLAIA1_002 Assignment of Work Center when Creating PM order from App. Req.
+
+XAIC IM Summarization: User Exits
+
+EXIT_SAPLAIC2_001 IM Summarization: Processing Summarization Data after Selection
+
+EXIT_SAPLAIC3_002 IM Summarization: Processing of Assigned Entities after Selection
+
+XAIL Exits for Depreciation Simulation Data
+
+EXIT_SAPLAIPL_001 Actual Settlements of Measures to Assets
+
+EXIT_SAPLAIPS_001 User Exit for Supplements to Overall Plan or Budget
+
+XAIR User Exits: App. Req. Reporting
+
+EXIT_SAPLAIAJ_001 IM-IS: App. Req. Reporting, Completion of User Value Fields
+
+XAIS User Exit for Asset Master Data Maint.
+
+EXIT_SAPL1022_001 Check of User-Defined Fields when Using Create and Change BAPI
+
+EXIT_SAPLAISA_001 Assign Inventory Number
+
+EXIT_SAPLAIST_001 Exchange Number Range
+
+EXIT_SAPLAIST_002 Transfer Data for User Subscreens
+
+EXIT_SAPLAIST_003 Transfer of User-Defined Fields to SAP Master Data Transactions
+
+XAKK Documentary payments: User enhancements
+
+EXIT_SAPMV86E_001 User exit subscreen data transfer
+
+EXIT_SAPMV86E_002 User exit subscreen data transfer
+
+EXIT_SAPMV86E_003 Installation of customer-specific lists
+
+XALLOCATIONUSEREXITS User Exits for Allocation Tables
+
+EXIT_SAPLWALL_004 User Exit for Recipient Determination in a Distribution Center
+
+EXIT_SAPLWAUF_003 Promotion Check: Automatically Adopt Requested Qty as Confirmed Qty
+
+EXIT_SAPLWAUF_005 Use Reduced Order Quantity in Allocation Table
+
+EXIT_SAPLWRWB_001 Check User Permission to Reply for a Plant
+
+EXIT_SAPLWRWB_002 Check: Automatically Adopt Requested Quantity as Confirmed Quantity
+
+XALT User Exit for Legacy Data Transfer
+
+EXIT_RAALTD11_001 Customer Exit for Customer-Specific Checks for Legacy Data Transfer
+
+XAMP User Exit: Customer's Own AMPL Fields
+
+EXIT_SAPLMBAM_001 Customer Exit: Transfer Item Data to Subscreen
+
+EXIT_SAPLMBAM_002 Customer Exit: Adopt Item Data from User Screen
+
+EXIT_SAPLMBAM_003 Customer Enhancement for AMPL Checks
+
+EXIT_SAPLMBMP_003 Customer Enhancement for AMPL Checks
+
+XANL User Exits for SAPLANLR
+
+EXIT_RAANANAV_001 User Exit for Interco. Asset Transfer
+
+EXIT_RAAUFW01_001 Function Module for Calculating Manual Revaluation
+
+EXIT_SAPLANLR_001 Control Level Texts for FI-AA Reporting
+
+XAPC User Exit for Posting to Fixed Assets
+
+EXIT_SAPLAPCF_001 Determination relation type of company codes
+
+EXIT_SAPLAPCF_002 Accounting: User Exit for Posting BAPI
+
+EXIT_SAPLAPCF_003 Expanded Check During Asset Posting
+
+EXIT_SAPLAPCF_004 Specif. of Repayment Percentage or Amount at Retirement of Inv. Support
+
+EXIT_SAPLAPCF_005 Change Posting Amount
+
+EXIT_SAPLAPCF_006 Substitution Offsetting Accts for Retiremt, Acquis., Post-Capitaliz.
+
+XARC User Exits for FI Archiving
+
+EXIT_SAPFF048_001 Information from an Archived and Deleted Document
+
+EXIT_SAPLMFAS_001 Archiving Check for MM Vendor Master Data
+
+XATP User Exit for Availability Check
+
+EXIT_SAPLATPC_001 Process Requirements Table before Calling Actual Check
+
+EXIT_SAPLATPC_002 Process Result of Actual Check
+
+XAUF Customer exits for internal orders
+
+EXIT_SAPLKAUF_001 Function call from master data maintenance
+
+EXIT_SAPLKAUF_004 Customer exit for controlling printing of master data for internal orders
+
+EXIT_SAPLKOAU_002 Authorization check for internal orders: Replace AUTHPHASE
+
+EXIT_SAPLRKIO_001 Reporting: Master Data Maintenance
+
+EXIT_SAPLRKIO_002 Internal Orders: Check for Business Transaction and Authorization
+
+EXIT_SAPMKAUF_002 Function callup for customer fields: PBO data SAP -> Customer
+
+EXIT_SAPMKAUF_003 Function callup for customer fields: PAI data customer -> SAP
+
+XAV1 Function Group Components Prog. Exits
+
+EXIT_RPCAVTD0_700 Conversion of Data Fields
+
+EXIT_RPCWEXIT_090 Determining the Start of Pension Payments
+
+XAVS Customer Exits for Payment Advice Notes
+
+EXIT_SAPLFRAD_001 Customer Exits for Changing the Payment Advice Note Segment Texts
+
+XAWS Customer user-exit for AWS report
+
+EXIT_RPCAWSX0_001 Initialization standard setup variables
+
+EXIT_RPCAWSX0_002 F4 help for customer defined Part-month rounding type
+
+EXIT_RPCAWSX0_003 Calculation factor & month for part-month rounding
+
+EXIT_RPCAWSX0_004 AWS base calculation (User-exit)
+
+XBAD User Exit for SAPDBADA
+
+EXIT_SAPDBADA_001 Customer Specific Translation of Asset Values
+
+EXIT_SAPDBADA_002 Customer-Specific Asset Number
+
+XBAI IDoc Service Master: Enhancements
+
+EXIT_SAPLBASI_001 User Exit, Inbound IDoc Processing, Service Master: Segment Maintenance
+
+EXIT_SAPLBASI_002 User Exit, Inbound IDoc Processing, Service Master: Database Update
+
+EXIT_SAPLBASO_001 IDoc Service Master: Enhancements
+
+EXIT_SAPLBASO_002 Enhancements, IDoc Service Master: Determination of Recipient
+
+XBAS Service Master: Enhancements
+
+EXIT_SAPLBAS0_001 Enhancement: Service Master, Check Standard Service Catalog
+
+XBDM Customer Exits in Model Application
+
+EXIT_SAPLBDMO_001 Changes/Enhancements to ALE Distribution Reference Model
+
+XBDS Business Document Service Customer Exits
+
+EXIT_LBDS_TOOLS_001 BDS Customer Exit for BDS_METAINFO_GET
+
+EXIT_SAPLBDS_METHODS_001 Customer Exit for BDS_BARCODE_CREATE
+
+EXIT_SAPLOPTE_001 Business Document Service: Customer Exit Bar Code
+
+XBE1 Customer exit pension declaration (B)
+
+EXIT_RPCDPEB0_001 Additional switch to deactivate declaration of C1 elements
+
+XBG0 Customer Enhancements for Warranty
+
+EXIT_SAPLBG00_001 Customer Enhancement: Warranty Default Values
+
+EXIT_SAPLBG00_002 Customer Enhancement Control for Warranty Check Popup
+
+EXIT_SAPLBG00_003 Customer Enhancement Warranty Check Output Screen 3100/3200
+
+XBIM User Exits for SAPDBIMA (LDB IMA)
+
+EXIT_SAPDBIMA_001 Assignment of Actual Values to Budget Categories
+
+EXIT_SAPDBIMA_002 Definition of User Value Fields
+
+XBPFC User Exists: Availability Control
+
+EXIT_SAPLBPFC_001 User Exist: Define Mail Recipients
+
+EXIT_SAPLBPFC_002 User-Exit: Specification of the Action for the Availability Control
+
+XBPX Business Partner: User Exits
+
+EXIT_SAPLBPX0_001 Business Partner: User Exit for Administration Data (Create)
+
+EXIT_SAPLBPX0_002 Business Partner: User Exit for Administrative Data (Check)
+
+EXIT_SAPLBPX0_003 Business Partner: User Exit for Bank Details (Process)
+
+EXIT_SAPLBPX0_004 Business Partner: User Exit for Bank Details (Edit)
+
+EXIT_SAPLBPX0_005 Business Partner: User Exit for Specifying Business Partner Number
+
+EXIT_SAPLBPX0_006 Business partner: User Exit - Check Business Partner Number Externally
+
+XBS1 Status management enhancements
+
+EXIT_SAPLBSVA_001 User exit PP order processing (non-order-type-specific)
+
+XBWL CFC for BWUL
+
+EXIT_SAPLCHVW_001 BWUL: Fill fields in append CHVWSHADOW_Z
+
+XC01 Function Group for EC-CS Extension
+
+EXIT_FICREC00_270 Integration: Exit During Conversion for Reconciliation of Totals data
+
+EXIT_FICREC01_260 Integration: Exit after Selection for Reconciliation of Totals Data
+
+EXIT_FICUMR00_001 EC-CS: Function Exit for Definition of Customer-defined Exchange Rates
+
+EXIT_FICUPL00_100 EC-CS: User-Exit from Flexible Upload
+
+EXIT_SAPLFCIM_280 Integration: Change Recipients for Express Mail
+
+EXIT_SAPLFCIN_100 EC-CS Integration: User-Exit for Indicator and Texts from CS-Org. Unit
+
+EXIT_SAPLFCIN_110 EC-CS Integration: User-Exit for "Parents" of CS-Organizational Units
+
+EXIT_SAPLFCIN_200 EC-CS Integration: User-Exit for Definition of the Data Stream on Rollup
+
+EXIT_SAPLFCIN_210 EC-CS Integration: Output fields has incorrect data records on Rollup
+
+EXIT_SAPLFCIN_220 EC-CS Integration: Sender Fields for Organizational Units on Rollup
+
+EXIT_SAPLFCIN_230 EC-CS Integration: Sender Fields for Subitems on Rollup
+
+EXIT_SAPLFCIN_240 EC-CS Integration: Edit from Value Fields before Update with Rollup
+
+EXIT_SAPLFCIN_250 EC-CS Integration: Get Custom Subassignments
+
+EXIT_SAPLFCLC_001 EC-CS: Definition of an Exchange Rate for Changes in Local Currency
+
+EXIT_SAPMF21B_001 EC-CS: Function Exit for Branching into Function Group XC01
+
+EXIT_SAPMF21B_002 EC-CS: Function Exit for SAP to Save Customer Tables
+
+XC07 Customer exits for Canadian Payroll
+
+EXIT_RPCYERKX_001 Customer exit to read T5KYR with modifier
+
+XC1A EH&S: Customer Exits
+
+EXIT_RC1AVGE1_001 EHS: Filter for Potentially Changed Reports (WL Generation)
+
+EXIT_RC1AVGE2_001 EHS: Adding to Substance Data Before Checking (WL Generation)
+
+EXIT_SAPLC107_001 EHS: Function Exit: Addit. Checks for a Characteristic Value Data Record
+
+EXIT_SAPLC10U_001 EHS: Further Checks for Risk Potential
+
+EXIT_SAPLC1CA_001 EHS: Determining report type for material safety data sheets
+
+EXIT_SAPLC1CA_002 EHS: Determines the material ID assigned to substances in EHS
+
+EXIT_SAPLC1CA_003 EHS: Creating a table with all substances for MSDS shipping
+
+EXIT_SAPLC1CA_004 EHS: Determines the language version of the MSDS
+
+EXIT_SAPLC1CA_005 EHS: Determining the SRGV for report shipping
+
+EXIT_SAPLC1CA_006 EHS: Report Shipping: Check Whether to Send
+
+EXIT_SAPLC1G2_001 EHS: Menu exit 1: Report management
+
+EXIT_SAPLC1G2_002 EHS: Menu exit 2: Report management
+
+EXIT_SAPLCVEA_001 EHS: Customer exit for checking material name
+
+EXIT_SAPLCVFE_001 EHS: Select Output Device for Report Shipping
+
+XCADR CAD/RFC: User Exits
+
+EXIT_SAPLCADR_001 User Exit: Read drawing head data
+
+XCAL Payroll User-Exit
+
+EXIT_RPTTMR_SMOD01_001 test only !
+
+EXIT_SAPLRPRP_001 Set Start and End Date for the Current Payroll Result
+
+XCAT Customer Enhancements for CATS
+
+EXIT_SAPLCATS_001 CATS: Compile Worklist
+
+EXIT_SAPLCATS_002 CATS: Supplement Recorded Data
+
+EXIT_SAPLCATS_003 CATS: Validate Recorded Data
+
+EXIT_SAPLCATS_004 CATS: Deactivate Functions in the User Interface
+
+EXIT_SAPLCATS_005 CATS: Export Data to Customer Dialog Box
+
+EXIT_SAPLCATS_006 CATS: Validate Entire Time Sheet
+
+EXIT_SAPLCATS_007 CATS: Determine Workflow Recipients for Approval
+
+EXIT_SAPLCATS_008 CATS: Import Data from Customer Dialog Box
+
+EXIT_SAPLCATS_009 CATS: Customer-Specific Text Fields in Data Entry Section
+
+EXIT_SAPLCATS_010 CATS: Customer-Specific Text Fields in Worklist
+
+EXIT_SAPLCATS_011 CATS: Customer Functions in Initial Screen/Data Entry Screen Menus
+
+EXIT_SAPLCATS_012 CATS: Export Data to Customer Subscreen for Header Information
+
+XCATP Customer Enhancements for CATP
+
+EXIT_SAPLCATP_001 Determine Target Hours
+
+XCAVC User Exits: CFG: External APIs
+
+EXIT_SAPLCAVC_CFG_001 Provide Customer Enhancements to BOM Item
+
+EXIT_SAPLCAVC_INST_001 Provide Customer Enhancements to BOM Item
+
+EXIT_SAPLCAVC_INST_002 Set Customer Enhancements to BOM Item
+
+XCBP User Exit for CBP
+
+EXIT_SAPLCBP_DNL_001 User exit for creation of IDoc CBPRCP01
+
+XCCA Customer exits for change master maint.
+
+EXIT_SAPMC29C_001 PCCD0001: Change master record - customer fields to customer program
+
+EXIT_SAPMC29C_002 PCCD0001: Change master record - customer fields to SAP program
+
+EXIT_SAPMC29C_003 Check parameter effectivity
+
+EXIT_SAPMC29C_004 ECH: Precheck when setting a systems status
+
+EXIT_SAPMC29C_005 ECH: Check before saving the change number
+
+EXIT_SAPMC29C_006 ECM: Check following initial screen (dynpro 100)
+
+XCEI0 User Exits: LO-VC: Instance
+
+EXIT_SAPLCEI0_001 User Exit: SD Customer Fields in a Configurable Instance
+
+EXIT_SAPLCEI0_010 User Exit: Customer Pushbutton 01
+
+EXIT_SAPLCEI0_011 User Exit: Customer Pushbutton 02
+
+EXIT_SAPLCEI0_012 User Exit: Customer Pushbutton 03
+
+EXIT_SAPLCEI0_013 User Exit: Customer Pushbutton 04
+
+EXIT_SAPLCEI0_014 User Exit: Customer Pushbutton 05
+
+EXIT_SAPLCEI0_015 User Exit: Customer Pushbutton 06
+
+EXIT_SAPLCEI0_016 User Exit: Customer Pushbutton 07
+
+EXIT_SAPLCEI0_017 User Exit: Customer Pushbutton 08
+
+EXIT_SAPLCEI0_018 User Exit: Customer Pushbutton 09
+
+EXIT_SAPLCEI0_019 User Exit: Customer Pushbutton 10
+
+EXIT_SAPLCEI0_020 Switch Off Standard Batch-Input Screen 0109
+
+EXIT_SAPLCEI0_021 Assigned Values File and Object Characteristics
+
+EXIT_SAPLCEI0_022 Change Presentation of F4 Help
+
+EXIT_SAPLCEI0_023 Find Material Variants with Identical Valuation and Activate
+
+XCHT
+
+EXIT_RFVDCHTX_001
+
+XCKA User Exits: Product Costing
+
+EXIT_SAPLCK01_001 User Exit for Production Resource/Tool Costing
+
+EXIT_SAPLCK21_001 User Exit for Material Valuation in Cross-Company Costing
+
+EXIT_SAPLCK21_002 User Exit for Material Valuation (Strategy U)
+
+EXIT_SAPLCK36_001 Valuation of Material in Valuated Sales Order Stock
+
+EXIT_SAPLCKAZ_001 Display/Print: Itemization
+
+EXIT_SAPLCKAZ_002 Display/Print: Cost Components
+
+EXIT_SAPLCKAZ_003 Display/Print: Cost Components and Itemization
+
+EXIT_SAPLCKWB_001 For Specifying Lower-Level WBS No.
+
+EXIT_SAPLKKEX_001 Inclusion of Bulk Material Items in Product Costing
+
+XCKML User Exits for Actual Costing
+
+EXIT_SAPLCKMLMVQUANT_001 Manipulation of Consumption Version Name
+
+XCLF Enhancements for CLFM
+
+EXIT_SAPLCLFM_001 Influences Class and Value Assignment
+
+EXIT_SAPLCLFM_002 Customer Exit for Changing Classification Data Before Saving
+
+EXIT_SAPLCLFM_003 Customer Exit Following Check for Characteristic Valuations
+
+XCLSC Customer Exit for Selection
+
+EXIT_SAPLCLSC_001 Customer Exit for Search Result
+
+XCMA Compensation Administration: User Exit
+
+EXIT_SAPFHCMP_001 Compensation Management: User Exit to Determine Eligibility
+
+EXIT_SAPLCMPEXITS_001 Compensation Management: User Exit to Determine Eligibility
+
+EXIT_SAPLCMPEXITS_002 User Exit for Effective Date of Compensation Type
+
+EXIT_SAPLCMPEXITS_003 User Exit for Compensation Management Guidelines
+
+EXIT_SAPLCMPEXITS_004 User Exit: Customer-Specific Calculation Variants for Guidelines
+
+EXIT_SAPLCMPEXITS_005 User Exit to Determine Calculation Basis
+
+EXIT_SAPLCMPEXITS_006 User Exit to be Activated in Compensation Management
+
+EXIT_SAPMHCM0_001 User Exit for Effective Date of Compensation Plan
+
+EXIT_SAPMHCM0_002 User Exit for Compensation Management Guidelines
+
+XCMFU Customer Exits for Function Group CMFU
+
+EXIT_SAPLCMFU_001 Define Customer-Specific Screen Layout
+
+EXIT_SAPLCMFU_002 Set Parameters for Time Confirmation and Goods Movements
+
+XCMP HR Budgeting Comp. Management: User Exit
+
+EXIT_SAPLRHBS_001 Compensation Budget: User Exit for Budget Initialization
+
+XCN1 PS Customer Exits
+
+EXIT_FCNGR000_001 PS Info System: Fill Nodes in Network/Hierarchy and Structure with Info
+
+EXIT_FCNGR000_002 Network Maintenance: Fill DIN field in Legend with Other Information
+
+EXIT_FCNGR000_003 Network Maintenance: Fill DIN field in Legend with Other Information
+
+EXIT_FCNGR000_004 PS Info System: Fill Legend for Network/Hierarchy and STructure with Info
+
+EXIT_FDBPS000_001 PS Customer Exit for Customer Specific Hierarchy Structure in LDB PSJ
+
+EXIT_SAPDBPSJ_001 PS Customer Exit Autorization Check in the PSY Logical Database
+
+EXIT_SAPLCJG1_001 PS Info System: Fill Nodes in Hierarchy Graphics with Other Information
+
+EXIT_SAPLCJG1_003 Network Maintenance: Fill DIN field in Legend with Other Information
+
+EXIT_SAPLCJG1_004 PS Info System: Fill Legend for Network/Hierarchy and STructure with Info
+
+EXIT_SAPLCJGR_001 PS: Plnning Board: Change Chart Titles
+
+EXIT_SAPLCJME_001 EXIT: Project Summarization: Set Screen Fileds
+
+EXIT_SAPLCJME_002 EXIT: Project Summarization: Read Screen Fields
+
+EXIT_SAPLCJME_003 EXIT: Project Summarization: SET OK Codes for PAI Processing
+
+EXIT_SAPLCJSS_001 PS Customer Exit for User Fields Standard Work Breakdown Structure
+
+EXIT_SAPLCJSS_002 PS Customer Exit Customer Specific Fields PROJS (Data SAP -> SUBSCREEN)
+
+EXIT_SAPLCJSS_003 PS Customer Exit Customer Specific Fields PROJS (Data SUBSCREEN -> SAP)
+
+EXIT_SAPLCJSS_004 PS Customer Exit Customer Specific Fields PRPSS (Data SAP -> SUBSCREEN)
+
+EXIT_SAPLCJSS_005 PS Customer Exit: User Specific Fields PRPSS (Data SUBSCREEN -> SAP)
+
+EXIT_SAPLCJSS_006 PS Customer EXit: Pre-set Search/Replace String
+
+EXIT_SAPLCJWB_001 PS Customer Exit WOrk Breakdown Structure User Fields
+
+EXIT_SAPLCJWB_002 PS Customer Exit: User Specific Fields PROJ (Data SAP -> SUBSCREEN)
+
+EXIT_SAPLCJWB_003 PS Customer Exit: User Specific Fields PROJ (Data SUBSCREEN -> SAP)
+
+EXIT_SAPLCJWB_004 PS Customer Exit: User Specific Fields PRPS (Data SAP _> SUBSCREEN)
+
+EXIT_SAPLCJWB_005 PS Customer Exit: User Specific Fields PRPS (Data SUBSCREEN -> SAP)
+
+EXIT_SAPLCJWB_006 PS Customer EXit: Pre-set Search/Replace String
+
+EXIT_SAPLCNAU_001 PS Customer Exit: Project Definition Authorization Check
+
+EXIT_SAPLCNAU_002 PS Customer Exit WBS Elment Authorization Check
+
+EXIT_SAPLCNAU_003 PS Customer Exit Network Header Authorization Check
+
+EXIT_SAPLCNAU_004 PS Customer Exit: Network Activity Authorization Check
+
+EXIT_SAPLCNAU_005 PS Customer Exit: Milestone Authorization Check
+
+EXIT_SAPLCNAU_006 PS Customer Exit PS Text Authorization Check
+
+EXIT_SAPLCNAU_007 PS Customer Exit: Simulation Version Authorization Check
+
+EXIT_SAPLCNEV_03_POC_001 Customer Defined POC Determination
+
+EXIT_SAPLCNGR_001 Network Maintenance: Fill Nodes with Other Information
+
+EXIT_SAPLCNGR_002 Master Data: Fill DIN Fields in Legend of Hierarchy Graphic with Info
+
+EXIT_SAPLCOKO_002 Derive External Network Number from WBS Number
+
+EXIT_SAPLCOKO_003 PS Customer Exit: User Specific Fields f. Network Header (SAP -> SUBSCR.)
+
+EXIT_SAPLCOKO_004 PS Customer Exit: Network Header User Specific Fields (SUBSCREEN -> SAP)
+
+EXIT_SAPLCONW_001 PS Customer Exit: Network User Fields
+
+EXIT_SAPLCONW_002 PS Customer Exit: User Specific Fields in AFVG (Data SAP -> SUBSCREEN)
+
+EXIT_SAPLCONW_003 PS Customer Exit: User Specific Fields in PLPO (Data SUBSCREEN -> SAP)
+
+EXIT_SAPLCOZR_001 User Exit for Checking the Release of Activities
+
+EXIT_SAPLCOZR_002 User Exit for Checking the Release of the Network
+
+EXIT_SAPLCPDO_001 PS Customer Exit: Standard Network User fields
+
+EXIT_SAPLCPDO_002 PS Customer Exit: User Specific Fields in PLPO (Data SAP -> SUBSCREEN)
+
+EXIT_SAPLCPDO_003 PS Customer Exit: User Specific Fields in PLPO (Data SUBSCREEN -> SAP)
+
+EXIT_SAPLNWGR_001 Network Maintenance: Fill Nodes with Other Information
+
+EXIT_SAPLNWGR_002 Network Maintenance: Fill DIN field in Legend with Other Information
+
+EXIT_SAPLNWGR_004 PS Info System: Fill Legend for Network/Hierarchy and STructure with Info
+
+EXIT_SAPLNWTM_001 Determine and Set Date for a Date Type for an Event
+
+EXIT_SAPLNWTM_002 Display source document
+
+EXIT_SAPLNWTM_003 Generate an Object for Monitoring DAtes
+
+XCN2 USer Exit for Material Components
+
+EXIT_SAPLCN10_001 Transfer BOM Items from Non-SAP System
+
+EXIT_SAPLCN10_002 Edit BOM Items
+
+EXIT_SAPLCN10_003 Check if New Assignment is Allowed
+
+EXIT_SAPLCN10_004 Check if Change is Allowed
+
+EXIT_SAPLCOMK_001 User Exit for Material Components
+
+EXIT_SAPLCOMK_002 User Exit: BOM Explosion on Component Overview
+
+EXIT_SAPLCOMK_004 PM Order: Customer Enhancement - Default for Item Cat. in Comp. Assignmt
+
+EXIT_SAPLCOMK_005 User Exit for Checking Changes to Components in Order
+
+EXIT_SAPLCOMK_007 Customer Enhancement: Plant and Storage Location Determination f. Compon.
+
+EXIT_SAPLCOMK_008 Change Priorities for Selection Criteria for Batch Determination
+
+EXIT_SAPLCOMK_009 Update Result of BOM Assignment
+
+XCO1 Customer Exits for FUGR COKO1
+
+EXIT_SAPLCOBT_001 User Exit PP Order Processing (Non-Order-Type-Specific)
+
+EXIT_SAPLCOCOM10_001 Enhancement in make-to-order production - Unit of measure
+
+EXIT_SAPLCODD_001 User Exit: Document Links Dialog Processing
+
+EXIT_SAPLCODM_001 User Exit: Generate Document Links from Master Data
+
+EXIT_SAPLCOEXT_001 Check Exit for Production Order Change from Assembly Order
+
+EXIT_SAPLCOKO1_001 Transfer of Order Data to Customer Enhancement
+
+EXIT_SAPLCOKO1_002 Transfer of Data Changes from Customer Enhancement
+
+EXIT_SAPLCOKO1_004 Check whether changes to order header/item are allowed in the dialog
+
+EXIT_SAPLCOKO_001 Check Exit for Process Order Change from Assembly Order
+
+EXIT_SAPLCOKO_005 Transfer of Order Data to Customer Enhancement
+
+EXIT_SAPLCOKO_006 Transfer of Data Changes from Customer Enhancement
+
+EXIT_SAPLCOMK_006 Enhancement in the adding and changing of components
+
+EXIT_SAPLCOMK_010 User Exit for Checking Component Changes in the Production Order
+
+EXIT_SAPLCOMK_014 Inspections and changes to the order components
+
+EXIT_SAPLCORO_001 Check Exit for Function "Set Deletion Flag"
+
+EXIT_SAPLCORO_002 Check Exit for Function "Set Deletion Indicator"
+
+EXIT_SAPLCOSD_001 Storage Location / Backflushing on Order Creation
+
+EXIT_SAPLCOSD_002 Customer Exit: Additional Attributes Document Link
+
+EXIT_SAPLCOSF_001 Customer Exit: Goods Receipt for Production Order
+
+EXIT_SAPLCOTX_001 Finds Production Memo
+
+EXIT_SAPLCOVG_001 User Exit for Checks of Operation Changes in the Production Order
+
+EXIT_SAPLCOZV_001 User Exit for Checking or Changing Header Fields During Order Maintenance
+
+EXIT_SAPLNWDB_001 Select Process Orders for External Relationships
+
+XCOA User Exit for Batch Record
+
+EXIT_SAPLCOAC_001 User Exit for Batch Record
+
+XCOC Customer Exits Order Confirmation CORU
+
+EXIT_SAPLCORU_001 Order Confirmation: Deactivation of Functions
+
+XCOF Customer Exits Order Confirmation CORF
+
+EXIT_SAPLCORF_001 PM/SM Order Confirmation: Customer-Specific Setting of Default Values
+
+EXIT_SAPLCORF_002 PM/SM Order Confirmation: Customer-Specific Entry Check Without Change
+
+EXIT_SAPLCORF_003 PM/SM Order Conf.: Customer-Specific Checks Acc. to Operation Selection
+
+EXIT_SAPLCORF_004 PM/SM Order Confirmation: Customer-Specific Entry Checks with Change
+
+EXIT_SAPLCORF_005 PM/SM Order Conf.: Customer-Spec. Enhancements when Saving (No Dialog!!!)
+
+EXIT_SAPLCORF_006 PS Confirmation: Customer-Specific Setting of Default Values
+
+EXIT_SAPLCORF_007 PS Confirmation: Customer-Specific Input Check Without Change
+
+EXIT_SAPLCORF_008 PS Confirmation: Customer-Specific Check After Operation Selection
+
+EXIT_SAPLCORF_009 PS Confirmation: Customer-Specific Input Check With Change
+
+EXIT_SAPLCORF_010 PS Confirmation: Customer-Specific Enhancements when Saving (No Dialog!!!)
+
+EXIT_SAPLCORF_101 PP Order Confirmation: Customer-Specific Setting of Default Values
+
+EXIT_SAPLCORF_102 PP Order Confirmation: Customer-Specific Input Check Without Change
+
+EXIT_SAPLCORF_103 PP Order Confirmation: Customer-Specific Checks after Operation Selection
+
+EXIT_SAPLCORF_104 PP Order Confirmation: Customer-Specific Input Check With Change
+
+EXIT_SAPLCORF_105 PP Order Conf.: Customer-Specific Enhancements when Saving (No Dialog!!!)
+
+EXIT_SAPLCORF_106 PP Order Conf.: Actual Data Transfer for Milestone Confirmation
+
+EXIT_SAPLCORF_401 Process Order Conf.: Customer-Specific Setting of Default Values
+
+EXIT_SAPLCORF_402 Process Order Confirmation: Customer-Specific Input Check Without Change
+
+EXIT_SAPLCORF_403 Process Order Conf.: Customer-Specific Checks after Operation Selection
+
+EXIT_SAPLCORF_404 Process Order Confirmation: Customer-Specific Input Checks With Change
+
+EXIT_SAPLCORF_405 Process Ord. Conf.: Cust.-Specific Enhancements when Saving (No Dialog!!!)
+
+EXIT_SAPLCORF_406 Process Order Conf.: Actual Data Transfer for Milestone Confirmation
+
+EXIT_SAPLCORU_S_100 Transfer Data from SAPLCORU_S to Customer-Defined Screen
+
+EXIT_SAPLCORU_S_101 Return Data from Customer-Defined Screen to SAPLCORU_S
+
+EXIT_SAPLPPC0_101 Check Additional Conditions for PDC Download of Operation Data
+
+XCOM User Exit for Material Qty. Calculation
+
+EXIT_SAPLCOML_001 User Exit for Material Quantity Calculation
+
+XCOOCM User Exits Order Change Management
+
+EXIT_SAPLCOOCMB_001 Check conflict for change step
+
+EXIT_SAPLCOOCM_001 OCM: Definition of Comparison Fields for Order Comparison
+
+XCOR User Exit Reorg PP Order
+
+EXIT_SAPLCORE_001 User Exit: Setting of Deletion Flag for Production Order Allowed?
+
+EXIT_SAPLCORE_002 Ùser Exit: Setting of Deletion Indicator for Production Order Allowed?
+
+EXIT_SAPLCORE_003 User Exit: Technical Completion of Production Order Allowed?
+
+EXIT_SAPLCORE_004 Mass Processing of Production Orders: General Sort Exit
+
+XCOUPONUSEREXITS User Exits for Coupon Processing
+
+EXIT_SAPLWAK6_001 User Exit for Coupon Processing in POS Inbound
+
+XCOVERAGEHISTORY User Exits for Absence Valuation
+
+EXIT_SAPLHRTIM00COV_HIST_001 Determination of package ID for Coverage History
+
+EXIT_SAPLHRTIM00COV_HIST_002 Determination of Seniority
+
+EXIT_SAPLHRTIM00COV_HIST_003 Validity Check for Coverage Rule
+
+EXIT_SAPLHRTIM00COV_HIST_004 Determine marking for absence day
+
+EXIT_SAPLHRTIM00COV_HIST_005 Split table AB according to marking in coverage history
+
+EXIT_SAPLHRTIM00COV_HIST_006 Relevant period for change to marking
+
+EXIT_SAPLHRTIM00COV_HIST_007 Choose days with change to marking
+
+EXIT_SAPLHRTIM00COV_HIST_008 Determination of Age
+
+XCOWB Customer Exits for FUGR COWB
+
+EXIT_SAPLCOWB_001 Goods Movement: Deactivation of Functions
+
+XCOZ Customer Exits in SAPLCOZF
+
+EXIT_SAPLCOZF_001 Customer Exits in Function Group COZF
+
+EXIT_SAPLCOZF_002 Customer Exits in Function Group COZF
+
+EXIT_SAPLCOZF_003 Exit for Predefining Fields in the Order Header
+
+XCP1 Customer Exits Task Lists
+
+EXIT_SAPLCP80_001 Test units of measure for reference to reference operation set
+
+EXIT_SAPLCPDO_004 Test units of measure for reference to reference operation set
+
+XCPA Customer exits for group CPAU
+
+EXIT_SAPLCPAU_001 Authorization check task lists
+
+XCPCL User exits for operations class
+
+EXIT_SAPLCPCL_001 Customer authorization check for the operations (EWB)
+
+XCPCLTSK User exits for task list headers class
+
+EXIT_SAPLCPCL_TSK_001 Customer authorization check for the task list headers (EWB)
+
+EXIT_SAPLCPCL_TSK_002 Customer units of measure test for reference to operation set (EWB)
+
+EXIT_SAPLCPCL_TSK_003 Customer authorization checks for material/routing assignment (EWB)
+
+XCPD Function Exits for OTA Screen when Pstng
+
+EXIT_SAPLFCPD_001 Check One-Time Account Data for Alternative Payee
+
+XCPR Customer exits for group CPRE
+
+EXIT_SAPLCPRE_001 Authorization checks when archiving and deleting routings
+
+XCQB Customer Exit for FUGR CQBM
+
+EXIT_SAPLCQBM_001 Customer Exit When Checking Formula in CQ_BM_QSS_CONSISTENCY_CHECK
+
+EXIT_SAPLCQBM_002 Customer Enhancement when Merging QPM* and PLMKB in Inspection Plan
+
+EXIT_SAPLCQBM_003 Converting Sample Units of Measure when Reading Plans
+
+XCQCL Customer Functions for Insp. Chars
+
+EXIT_SAPLCQCL_001 Customer Enhancement for Classification of Insp. Characteristics (EWB)
+
+EXIT_SAPLCQCL_002 Customer-Specific Formula Checks in Inspection Characteristic (EWB)
+
+EXIT_SAPLCQCL_003 User-Defined Check of Sample Unit of Measure/Material
+
+XCRC PPPI Customer Exits
+
+EXIT_SAPLCOAV_001 User-Defined Automatic Value Assignment of Process Instruction Charact.
+
+XCSA BOM: User exit dialog
+
+EXIT_RCS14001_001 BOM comparison: own comparison functions (differentiated)
+
+EXIT_RCS14001_002 BOM comparison: own comparison function (cumulative)
+
+EXIT_RCS14001_003 BOM comparison: own format/task (differentiated)
+
+EXIT_RCS14001_004 BOM comparison: own format/task (cumulative)
+
+EXIT_SAPLCSDI_001 PCSD0001: BOM - User exit
+
+EXIT_SAPLCSDI_002 PCSD0002: BOM Item - Customer Fields to Customer Program
+
+EXIT_SAPLCSDI_003 PCSD0002: BOM item - Customer Field to SAP Program
+
+EXIT_SAPLCSDI_004 PCSD0003: BOM header - Customer Field to Customer Program
+
+EXIT_SAPLCSDI_005 PCSD0003: BOM header - Customer Field to SAP Program
+
+EXIT_SAPLCSDI_006 PCSD0005: Additional Component Checks for Material Items
+
+EXIT_SAPLCSDI_007 PCSD0007: Check STKOB after change
+
+EXIT_SAPLCSWB_001 WBS BOM: Customer-specific explosion for creating
+
+EXIT_SAPMC29M_001 BOM; Material Where-Used List
+
+XCSV Service Management Enhancements
+
+EXIT_SAPLICUS_001 Display Location Information
+
+EXIT_SAPLIPAR_002 Selection of Notification Partners
+
+EXIT_SAPLIPAR_003 Customizing Partner Check
+
+EXIT_SAPLIPAR_004 Reading of the Additionally Supported Partner Types
+
+EXIT_SAPLIPAR_005 F4 Help for Additonal Partner Types
+
+EXIT_SAPLIPAS_001 Partner Transfer of Serial Numbers for Goods Issue
+
+EXIT_SAPLIREP1_001 Single-Level List Editing PM/QM/CS: CHange ALV Settings
+
+EXIT_SAPLISDI_001 Customer Exit: Determining Rejection of Billing Document - Warranty
+
+EXIT_SAPLIWO1_003 Check PM Object and Display Object Information
+
+XCTA Characteristics: User Exits
+
+EXIT_SAPLCTMV_001 User Exit for Characteristics: Current Data Before Saving Characteristic
+
+XCTMS Cust. Exits for Value Assignment Screen
+
+EXIT_SAPLCTMS_001 Set Default Values
+
+EXIT_SAPLCTMS_002 Check for Same Classification
+
+XCUBX Customer Functions fur Funct. Grp CUBX
+
+EXIT_SAPLCUBX_001 Set Superior Material for Instance
+
+EXIT_SAPLCUBX_002 Set Superior Material
+
+XCUC Configuration Customer Exits
+
+EXIT_SAPLCEB1_001 Transfer of Item Category After Replacing KMAT with a Variant
+
+EXIT_SAPLCEB1_002 User Exit for Definition of BOM Category for Instantiation
+
+EXIT_SAPLCEB1_003 Define BOM Status for Instantiated Materials
+
+EXIT_SAPLCEIS_001 Parameterizatiuon of Finding Objects in Class Items
+
+EXIT_SAPLCEIS_002 Object Types for Object Search in Class Nodes
+
+EXIT_SAPLCLDL_001 Ignore Selected Objects When Deleting in CLDL
+
+EXIT_SAPLCTMS_999 Dummy User Exit
+
+EXIT_SAPLCUCP_002 Deleted Assignment of Class to Object Despite Configured Objects
+
+EXIT_SAPLCUD0_001 Configuration Decision to Load Configuration from External Source
+
+EXIT_SAPLCUD0_002 Reaction Option to Conflicts When Finding Objects in Class Node
+
+EXIT_SAPLCUKO_001 Additional Check on Configuration
+
+EXIT_SAPLCUKO_002 Level of Detail of Multi-Level Explosion in Configuration
+
+EXIT_SAPLCUKO_003 Post-Processing of Configuration with Dependencies
+
+EXIT_SAPLCUKO_004 Instantiation Parameters
+
+EXIT_SAPLCUKO_005 Save Manual Changes for Scenario Sales Order (SET)
+
+EXIT_SAPLCUKO_006 Import Manual Changes for Scenario Sales Order (SET)
+
+EXIT_SAPLCUKO_007 Exit to "Correctly" Fix an Order BOM
+
+EXIT_SAPLCUKO_008 Limit BOM Explosion for Externally Procured Comp.
+
+EXIT_SAPLCUKO_009 Multi-Level Configuration with Material Variants
+
+EXIT_SAPLCUKO_011 Dialog for incomplete charactersitic value assignment
+
+EXIT_SAPLCUXC_001 Load Configuration from External Source
+
+XCUC1 User Exit: Explosion Date for Order BOM
+
+EXIT_SAPLCASL_001 Explosion Date for Result-Oriented Order BOM
+
+EXIT_SAPLCASL_002 Validity date of order BOM
+
+EXIT_SAPLCEB1_100 Maintain Additional Data for Instantiation
+
+XCUC2 Customer Enh.: Component Quantity in Set
+
+EXIT_SAPLCUKO_010 Enhancement CCUXSETQ, Control: Quantity Comparison Yes/No
+
+XCUCP Configuration Customer Exits FG CUCP
+
+EXIT_SAPLCLDL_002 Ignore Selected Objects When Deleting in CLDL
+
+EXIT_SAPLCUCP_003 Delete Char. Assignment to Class Despite Configured Object if Necessary
+
+EXIT_SAPLCUCP_004 Deleted Assignment of Class to Object Despite Configured Objects
+
+EXIT_SAPLCUCP_005 Delete Assignment of Profile to Obj. Despite Configured Obj. if Necessary
+
+EXIT_SAPLCUCP_006 If Necessary, Delete Assgnmnt of Char. to Class Despite Config. Obj. CBASE
+
+EXIT_SAPLCUCP_007 Deleted Assignment of Class to Object Despite Configured Objects
+
+EXIT_SAPLCUCP_008 If Necessary, Delete Assgnmnt of Obj. Profile Despite Config. Obj. (CBASE)
+
+XCUCQ Configuration of Customer Exits FG CUCQ
+
+EXIT_SAPLCUCQ_001 Additional Logic Selection of Configuration Profiles in FG CUCQ
+
+XCUI Initialization of Variant Functions
+
+EXIT_SAPLCUD0_003 Time of Initialization for Variant Function Program Environment
+
+XCUP User Exits for Planning Tables
+
+EXIT_SAPLCUD2_800 Check Processing of Planning Table
+
+EXIT_SAPLCUTS_800 Processing of Planning Table
+
+XCUT Configuration - Tech. User Exits
+
+EXIT_SAPLCUD3_001 Configuration: Additional Processing When Changing Variant Table Entries
+
+EXIT_SAPLCUD4_001 Access Variant Table - Strategy for Finding Value Combinations
+
+XCV001 Document Management enhancements
+
+EXIT_SAPLCV00_001 Exit for check_in before files transport
+
+EXIT_SAPLCV00_002 Exit for check in after file transport
+
+XCV002 ALE-DMS enhancements
+
+EXIT_SAPLCVALE_001 User exit for ALE-DMS (DOCMAS inbound)
+
+EXIT_SAPLCVALE_002 User exit for ALE-DMS (DOCMAS outbound)
+
+EXIT_SAPLCVALE_003 User exit for ALE-DMS (DOLMAS inbound)
+
+EXIT_SAPLCVALE_004 User exit for ALE-DMS (DOLMAS outbound)
+
+EXIT_SAPLCVALE_005 Userexit for filter objects (ALE outbound)
+
+EXIT_SAPLCVALE_006 User Exit for ALE-DVS (DOCMAS Outbound, Control BOMDOC)
+
+XCVDS ALE-DMS enhancements
+
+EXIT_SAPLCVDS_001 User exit for ALE-DMS (DOCMAS inbound)
+
+EXIT_SAPLCVDS_002 User exit for ALE-DMS (DOCMAS outbound)
+
+EXIT_SAPLCVDS_003 User exit for ALE-DMS (DOLMAS inbound)
+
+EXIT_SAPLCVDS_004 User exit for ALE-DMS (DOLMAS outbound)
+
+XCVV1 DDS: User exits (recipient lists)
+
+EXIT_SAPLCVV1_001 DDS: User-Exit - Save recipient list
+
+EXIT_SAPLCVV1_002 DDS: User-Exit - Modify initial values for screen 100
+
+EXIT_SAPLCVV1_003 DDS: User-Exit - Determine original
+
+EXIT_SAPLCVV1_004 DDS: User-Exit - Determine document part and version of a document
+
+EXIT_SAPLCVV1_005 DDS: User-Exit - Determine workstation application
+
+XCVV2 DDS: User exits (distribution order)
+
+EXIT_SAPLCVV2_001 DDS: User-Exit - Create distribution order
+
+EXIT_SAPLCVV2_002 DDS: User-Exit - Check partial order
+
+EXIT_SAPLCVV2_003 DDS: User-Exit - Create initial order
+
+XCVV5 DDS: User exits (events)
+
+EXIT_SAPLCVV5_001 DDS: User-Exit - Determine context
+
+XCVVW DDS: User exits (ITS access)
+
+EXIT_SAPLCVVW_001 DDS: User-Exit - ITS access
+
+XCY0 User exits to capacity planning
+
+EXIT_SAPLCY04_001 User exit for fixing planning areas
+
+EXIT_SAPLCY19_001 User exits to change order operations
+
+EXIT_SAPLCY19_002 User exits to change order operations
+
+EXIT_SAPLPLAT_001 User exit to change labeling/infotext for a bar
+
+XCY1 User Exit for CYPP Sort, Tab. Plant
+
+EXIT_SAPLCYPP01_002 User Exit to Fill User-Defined Structure with Displayable Fields (SORTING)
+
+EXIT_SAPLCYPP01_004 Sorting: Replace Initial Fields
+
+EXIT_SAPLCYPP02_001 User Exit to Fill User-Defined Structure with Displayable Fields
+
+EXIT_SAPLCYPP02_002 Refurbishment: Replace Inital Fields
+
+EXIT_SAPLCYPP05_001 Restore Fields Suppressed from Preparation Keys
+
+EXIT_SAPLCYPP06_001 User Exit for Changing Sequence Criteria and Sequence
+
+EXIT_SAPLCYPP_001 User Exit for Changing Sequence Criteria and Sequence
+
+EXIT_SAPLCYPP_002 User Exit to Fill User-Defined Structure with Displayable Fields
+
+EXIT_SAPLCYPP_003 User Exit to Restore Fields Suppressed from Display.
+
+EXIT_SAPLCYPP_004 Sorting: Replace Initial Fields
+
+XCZCL EWB: Mat-Rout.Assignment Customer Exits
+
+EXIT_SAPLCZCL_001 EWB: Exit to the search field test in material/ routing assignment (MAPL)
+
+XCZD Customer Functions: SAPLCZD*
+
+EXIT_SAPLCZDI_001 Output Control Search Field for Inspection Plans in SAPLCZDI-4010
+
+EXIT_SAPLCZDI_002 Validation Search Field in MAPL on Screen SAPLCZDI 4010
+
+EXIT_SAPLCZDI_003 F4 Input Help for Search Field in SAPLCZDI 4010
+
+EXIT_SAPLCZDI_004 User Exit for Customer-Spec. Authorization Check of Mat./Rec. Assignment
+
+XCZOV Customer Functions for Mat-Rout.Assign.
+
+EXIT_SAPLCZOV_001 EWB: Exit for search field F4 help in the material/ routing assignment
+
+XD10 DGM: User exits for master data dialog
+
+EXIT_SAPLDG10_001 DGM: Writing new change documents
+
+XD71 DGM: Customer functions for DG pap/check
+
+EXIT_SAPLDG70_001 DGM: Customer Function Country/Mode of Trans. Cat. Determ. in Transportn
+
+XDF1 Datafeed: FM for User Exits
+
+EXIT_RFTBFF01_001 Market Data: Modification of Requirements List in RFTBFF01
+
+EXIT_SAPLTBDF_001 Market Data: Interface for Reading Saved Rates
+
+XDIX Customer Functions
+
+EXIT_SAPLEDIX_001 Customer Function for Outbound Processing
+
+EXIT_SAPLEDIX_002 Customer Function for Inbound Processing
+
+XDK0 RA Dynamic Items Enhancements
+
+EXIT_SAPLADK0_001 Customer-Specific Postprocessing: CO Subkey Dynamic Items Results Analysis
+
+XDRP DRP Customer Exits
+
+EXIT_SAPMMDRP_001 Safety Stock Calculation
+
+EXIT_SAPMMDRP_002 Fair Share Allocation
+
+XDRU User Exits for Printing in WM
+
+EXIT_RLKOMM40_001 Exit for Influencing Multiple Processing Print in WM
+
+EXIT_RLVSDR40_001 Exit for Influencing Transfer Order Print in WM
+
+XDTA User Exits DME Administration
+
+EXIT_SAPMFDTA_001 User Exits in DME Administration
+
+XEAN128 Customer Functions for LE_EAN128
+
+EXIT_SAPLLE_EAN128_001 Reading/Modification of Data for Material Label
+
+EXIT_SAPLLE_EAN128_002 EAN128: Determination of Form and Barcode Profile
+
+EXIT_SAPLLE_EAN128_003 Initialization of Global Data for Encoding/Decoding
+
+EXIT_SAPLLE_EAN128_004 Formatting of AI Value
+
+EXIT_SAPLLE_EAN128_005 Formatting of Bar Code Value Text View
+
+XEBB CO/SD: Customer Functions
+
+EXIT_SAPLEBBS_001 Determine Items for New Documents
+
+EXIT_SAPLEBBS_002 Read Items for Existing Documents
+
+EXIT_SAPLEBBS_003 Record Document Flow
+
+XED4 User exits for SAPLVED4
+
+EXIT_SAPLVED4_001 Modify Warnings in Table XVBFS
+
+EXIT_SAPLVED4_002 Copying Data to Screens for Incoming EDI Docs
+
+EXIT_SAPLVED4_003 Customer-Specific Changes in the Workflow Parameters
+
+EXIT_SAPLVED4_004 Generating the Mail Recipient in Inbound Processing for Component Supplier
+
+XED5 User Exits for Function Grooup VED5
+
+EXIT_SAPLVED5_001 User Exit for Condition Value Tolerances in the Self-Billing Procedure
+
+EXIT_SAPLVED5_002 User Exit Messages Credit Memo Procedures SBINV
+
+EXIT_SAPLVED5_003 User Exit Tolerance Check Credit Memo Procedure SBINV
+
+EXIT_SAPLVED5_004 Customer Function for changing Billing Document Data SBINV
+
+EXIT_SAPLVED5_005 Customer-Specific Changes in Workflow Parameters
+
+EXIT_SAPLVED5_006 Copying Data to Screens for Incoming EDI Docs
+
+XEDF User-Exit SAPLVEDF Billing Doc-Outgoing
+
+EXIT_SAPLVEDF_001 User_Exit Control Data IDoc_Output_Invoice
+
+EXIT_SAPLVEDF_002 User_EXit Customer Enhancement in Data Segments Billing Document Output
+
+EXIT_SAPLVEDF_003 User_Exit in Order to Avoid Reading the Packaging Data
+
+EXIT_SAPLVEDF_004 EDI Invoice: Customer Enhancement to Import Additional Data
+
+XEDI IDOC: Customer Functions
+
+EXIT_SAPLEDI1_001 Customer Function for Open_for_create
+
+XEQM Master Data Management enhancements
+
+EXIT_SAPLIEL2_001 Check of User-Defined Rules When Defining the Equipment Hierarchy
+
+EXIT_SAPLIEL2_002 Check of User-Defined Rules on Installation of Equipments at FunctLoc
+
+EXIT_SAPLIPW0_001 Object Permissible for Contract (Copying of Order/Maintenance Order)
+
+EXIT_SAPLIPW0_002 Object Permissible for Order (Copying of Maint. Order/Maint. Order)
+
+EXIT_SAPLIPW0_003 Object Permissible for Contract (Maintenance of Maintenance Contract)
+
+EXIT_SAPMIEQ0_001 Check of Customer-Defined Rules Before Equipment Update
+
+EXIT_SAPMIEQ0_002 Customer-Defined Check/Change in Manufacturer Data for Technical Object
+
+XETI IS-R Labeling: User Exits
+
+EXIT_SAPLWEVE_001 IS-R Labeling: Print Processing / Output
+
+EXIT_SAPLWEVE_002 IS-R Labeling: IDoc Processing / Output
+
+XEWT User Exit Transfer External Wage Types
+
+EXIT_RPIEWT00_001 Supply currency key
+
+XF01 User Exit for Electronic Bank Statement
+
+EXIT_RFEBBE00_001 User Exit Conversion Program (CODA (Belgium) -> Multicash)
+
+EXIT_RFEBBU10_001 Interpret Note to Payee Lines of the Electronic Bank Statement
+
+EXIT_RFEBFI20_001 Transfer Additional Data (Finnish TITO Format)
+
+EXIT_RFEBLB20_001 Lockbox Data
+
+EXIT_RFEBLB20_002 Lockbox: Add prefix/suffix to document number or reference number
+
+EXIT_RFEKA400_001 Function Group for User Exit on RAW DATA (Electronic Bank Statement)
+
+XF02 User Exit: FI Document Archiving
+
+EXIT_SAPFF040_001 Archiving: Customer Exit for Document Processing
+
+XF03 Checking FI Master Data
+
+EXIT_GL_ACCOUNT_MASTER_001 Function Exit for Checking G/L Account Master Records
+
+EXIT_SAPMF02H_001 Function Exit for Checking G/L Account Master Records
+
+XF04 User Exit: Customer Master Data
+
+EXIT_SAPMF02D_001 Customers: User Exit for Checks prior to Saving
+
+XF05 User Exit: Vendor Master Data
+
+EXIT_SAPMF02K_001 Vendors: User Exit for Checks prior to Saving
+
+XF06 User Exit FI-EDI
+
+EXIT_SAPLIEDI_001 FI-EDI: Invoice Receipt - Determine G/L Account per Invoice Line
+
+EXIT_SAPLIEDI_002 FI-EDI: Invoice Receipt - Determine Add. Acct Assignm. per Line Item
+
+EXIT_SAPLIEDI_003 FI-EDI: Invoice Receipt - Fill the Screen Field "Assignment"
+
+EXIT_SAPLIEDI_004 FI-EDI: Invoice Receipt - Determine Segment Text
+
+EXIT_SAPLIEDI_005 FI-EDI: Invoice Receipt - Determine the Name of the BDC Session
+
+EXIT_SAPLIEDI_011 MM-EDI: Invoice Receipt - Determination of Purchase Order Item
+
+EXIT_SAPLIEDI_101 FI-EDI: Invoice Receipt INVOIC01 - Additional Assignment IDoc -> Document
+
+EXIT_SAPLIEDI_102 FI-EDI: Invoice Receipt INVOIC01 - Data Expansion before Posting
+
+EXIT_SAPLIEDI_111 MM-EDI: Invoice Receipt INVOIC01 - Additional Assignment IDoc -> Document
+
+EXIT_SAPLIEDI_112 MM-EDI: Invoice Receipt INVOIC01 - Data Expansion before Posting
+
+XF07 User Exit: Ext.Check Entry Interface
+
+EXIT_RFEBSC00_001 Postprocessing on Imported Check Data
+
+XF08 FI-EDI: Incg/Outg Pmnt Advice User Exits
+
+EXIT_SAPLIEDP_001 FI-EDI: Outgoing Pmnt Advice - Save PEXR Segments
+
+EXIT_SAPLIEDP_002 FI-EDI Outgoing Payments: Save PEXR Segments PAYEXT
+
+EXIT_SAPLIEDP_003 FI-EDI Outgoing Payments: Save PEXR Segments DIRDEB
+
+EXIT_SAPLIEDP_101 FI-EDI: Incoming Pmnt Advice - Extended Assgmt of IDOC -> Applicatn Data
+
+EXIT_SAPLIEDP_102 FI-EDI: Incoming Pmnt Adivce - Closing Assgmt of IDOC -> Applicatn Data
+
+EXIT_SAPLIEDP_201 FI-EDI: Inbound - Account Statement/Lockbox - Settlement Handling
+
+EXIT_SAPLIEDP_202 FI-EDI: Inbound Account Statement/Lockbox, Segment Processing
+
+EXIT_SAPLIEDP_901 FI-EDI Outgoing Payment: New Partner House Bank
+
+EXIT_SAPLIEDP_902 FI-EDI Outgoing Payment: End of Interim Payment Document (VBLNR)
+
+EXIT_SAPLIEDP_903 FI-EDI Outgoing Payment: End Partner House Bank
+
+XF09 Document Parking User Exit
+
+EXIT_SAPLF040_001 WF: Amount Release by Person with Release Authorization
+
+EXIT_SAPLF040_002 WF: Account Assignment Approval by Person with Release Authorization
+
+EXIT_SAPLF040_003 WF: Operater after Refusal of Release
+
+EXIT_SAPLF040_004 User Exit: Payment Release by Person with Release Authorization
+
+EXIT_SAPLF051_001 User Exit: Check Whether Payment Release Necessary
+
+EXIT_SAPLF051_002 Check Whether Document Parking Release is Necessary
+
+EXIT_SAPLF051_003 Results of Changing Object FIPP
+
+XF10 User exit: Bank data checks (SAPLSSRV)
+
+EXIT_SAPLSSRV_001 Check of bank account number: User exit for checking entries
+
+EXIT_SAPLSSRV_002 Check of bank account number: User exit for checking entries
+
+XF11 User Exit: Line Item Display
+
+EXIT_RFEPOS00_001 Line Item Display: Checking of Selection Conditions
+
+XF12 User exit: Bank data (SAPLBANK)
+
+EXIT_SAPLBANK_001 Check of bank account number: User exit for checking entries
+
+XF14 Account Statement Object Generation
+
+EXIT_SAPL4499_001 AccountStatement (PrevDay) Object Generation
+
+EXIT_SAPL4499_002 AccountStatement (SameDay) Object Generation
+
+EXIT_SAPL4499_003 AccountStatement (Balance) Object Generation
+
+EXIT_SAPL4499_004 AccountStatement (Lockbox) Object Generation
+
+XF40 UUser Exits: Man.Bank Stmt/Check Deposit
+
+EXIT_SAPMF40K_001 Processing individual bank statement lines per input
+
+EXIT_SAPMF40S_001 Processing of individual check deposit lines per input
+
+XF48 User Exits Subsequent Bal. Sheet Debit
+
+EXIT_SAPLF048_001 Financial Statement Adjustment Exit, Event Posting: Check Standard Logic
+
+EXIT_SAPLF048_002 Exit Financial Statement Adjustment, Event Calculate: Customer Rules
+
+XF60
+
+EXIT_SAPF150S_010
+
+XF64 ISIS Securities: Order Management
+
+EXIT_SAPLFWTR_01_001 Customer Function Order Management - Menu Enhancement +001
+
+EXIT_SAPLFWTR_01_002 Customer Function Order Management - Menu Enhancement +002
+
+EXIT_SAPMF64O_001 Customer Function Order Management - Menu Enhancement +001
+
+EXIT_SAPMF64O_002 Customer Function Order Management - Menu Enhancement +002
+
+EXIT_SAPMF64O_011 Customer Function Order Management - Expand/Modify Other Flows
+
+EXIT_SAPMF64O_101 Customer Function Order Management - Save/Post
+
+XF67 Customer Functions for SAPMF67A
+
+EXIT_SAPMF67A_001 User Exit for IS-IS Loans Master Data Branch for Menu Enhancement I
+
+EXIT_SAPMF67A_010 User Exit: Menu Enhancement II for Loans Master Data
+
+EXIT_SAPMF67A_011 User Exit: Menu Enhancement II for Loans Master Data
+
+EXIT_SAPMF67A_012 User Exit: Menu Enhancement III for Loans Master Data
+
+EXIT_SAPMF67A_013 User Exit: Posting Addtions for Loans Master Data
+
+EXIT_SAPMF67A_014 Enhancement SAPMF67A (PBO Module for User Subscreen) Screen 310
+
+EXIT_SAPMF67A_015 Enhancement SAPMF67A (PAI Module for User Subscreen) Screen 310
+
+EXIT_SAPMF67A_016 User Exit SAPMF67A for Finance Project Number
+
+XFBV User exits for transferring bank drctry
+
+EXIT_RFBVEXIT_001 User exit for transferring bank directory for Austria
+
+XFCH User-Exits Switzerland
+
+EXIT_SAPLFVCH_001 User Exit References POR No., Customer Modification
+
+XFDB User Exit for Premium Reserve Fund
+
+EXIT_SAPLFVDB_001 User Exit for Premium Reserve Fund
+
+EXIT_SAPLFVDB_002 User Exit for Account Determination
+
+XFDE Payroll Germany: User Exits
+
+EXIT_RPCALCD0_001 Benefit Principle in Miners' Insurance DEUEV (RPCKDID0)
+
+XFEX User Exits for Intercompany Transactions
+
+EXIT_SAPLFICP_001 Own Check/Modification of an External Document
+
+EXIT_SAPLFICP_002 Change Data when Importing at the Recipient
+
+XFIL Extended File Transfer
+
+EXIT_SAPLGRAP_001 Customer-specific authorization check and trace for download
+
+EXIT_SAPLGRAP_002 Customer-specific check of the upload data (for example, for viruses)
+
+XFKO User Exits: Automatic Correspondence
+
+EXIT_RFKORIEX_001 User Exit for Various Transmission Media (Printout, Fax and so on)
+
+XFLC FI-LC Function Exits
+
+EXIT_RGCPCU40_100 FI-LC - Entry - RGCPCU40 - Exit before Update
+
+XFMC Funds Reservation: User Exits
+
+EXIT_SAPLFMFR_001 Earmarked Funds: PBO SCREEN 500,505,510,511
+
+EXIT_SAPLFMFR_002 Earmarked Funds: PAI SCREEN 500,505,510,511
+
+EXIT_SAPLFMFR_003 Earmarked Funds: PAI SCREEN 520, 530: (Loop-) Line
+
+EXIT_SAPLFMFR_004 Earmarked Funds: PAI SCREEN 520: after Loop
+
+EXIT_SAPLFMFR_005 Earmarked Funds: PBO SCREEN 520, 530: (Loop-)Line (2)
+
+EXIT_SAPLFMFR_006 Earmarked Funds: PBO SCREEN 520, 530: (Loop-)Line (1)
+
+EXIT_SAPLFMFR_007 Earmarked Funds: Conditions for Workflow Restart
+
+EXIT_SAPLFMR0_001 Earmarked Funds: Role Definition: Determine Fiscal Year
+
+EXIT_SAPLFMR0_002 Earmarked Funds: Own Role Definition
+
+EXIT_SAPLFMR0_003 Earmarked Funds: FM Role Definition or FI Role Definition ?
+
+EXIT_SAPLFMR1_001 Earmarked Funds: Document Number Allocation
+
+EXIT_SAPLFMR4_001 Earmarked Funds: Check During Reductionn from FI Document Line
+
+EXIT_SAPLFMR4_002 Earmarked Funds: Check During Reduction from FI Documents Before Update
+
+EXIT_SAPMFMCM_001 FM Reservation: SAPMFMCM PBO SCREEN 500,505,510,511
+
+EXIT_SAPMFMCM_002 FM Reservation: SAPMFMCM PAI SCREEN 500,505,510,511
+
+EXIT_SAPMFMCM_003 FM Reservation: SAPMFMCM PAI SCREEN 120,320,520,130,530: (Loop-)Line
+
+EXIT_SAPMFMCM_004 FM Reservation: SAPMFMCM PAI SCREEN 120,520: after Loop
+
+EXIT_SAPMFMCM_005 FM Reservation: SAPMFMCM PBO SCREEN 120,320,520,130,530: (Loop-)Line
+
+XFMD User Exists for Revenues Incr. the Bdgt
+
+EXIT_SAPLFMUD_001 Check Compatibility of Output Addresses for Cmmt Bdgt and Payment Budget
+
+EXIT_SAPLFMUD_002 Check Whether Commitment Budget Should Be Increased
+
+EXIT_SAPLFMUD_003 Check Whether a Forecast Is Required
+
+EXIT_SAPLFMUD_004 User-Specific Check of Expend. FM Acct Assgt for Cmmt Bdgt and Payt Bdgt
+
+EXIT_SAPLFMUD_005 Check Whether Commitment Budget Should Be Increased
+
+XFMK User Exits for FM Account Assignment
+
+EXIT_SAPLFMKT_001 Derive Collective Expenditure Subsection in Budget
+
+XFMY User exits for update
+
+EXIT_SAPLFMCH_001 Determine FM Account Assignment from Coding Block
+
+EXIT_SAPLFMCH_002 Own Table Updates During Reassignment
+
+EXIT_SAPLFMCH_003 Change of Account Assignment, Reject Reassignment
+
+EXIT_SAPLFMCU_001 Set Statistics Flag for CO Updating
+
+EXIT_SAPLFMCU_002 Set FM Account Assignment for CO-Internal Postings
+
+EXIT_SAPLFMCU_003 Activate CO-Internal Postings
+
+EXIT_SAPLFMFA_001 Set the Statistics Indicator
+
+EXIT_SAPLFMFC_002 Availability Control Data for the User
+
+EXIT_SAPLFMFC_003 Posting Availability Control Data for the User
+
+EXIT_SAPLFMKN_001 Activate FM Control Number
+
+EXIT_SAPLFMKN_002 Preparing Customer FM Control Number
+
+EXIT_SAPLFMKN_003 Compile FM Control Number
+
+EXIT_SAPLFMMM_001 No longer used
+
+EXIT_SAPLFMMM_002 No longer used
+
+EXIT_SAPLFMOI_001 Define Data Compression for FMIOI/FMIT
+
+EXIT_SAPLFMOI_002 MM-Commtment Authorization-Update: Read FMBUDAT Check
+
+EXIT_SAPLFMOI_003 MM-Commitment Authorization-Update: Deactivate CCN Check
+
+EXIT_SAPLFMOI_004 Fill User Dimension: Reservation Documents
+
+EXIT_SAPLFMOI_005 Fill User Dimension: Purchase Requisitions
+
+EXIT_SAPLFMOI_006 Fill User Dimensions: Purchase Orders
+
+EXIT_SAPLFMOI_007 Fill User Dimension: Travel
+
+EXIT_SAPLFMPA_003 RFFMS200: Activating V2 Update
+
+EXIT_SAPLFMPA_004 RFFMS200: Payment Records for Credit Memos are Not Statistical
+
+EXIT_SAPLFMPA_005 RFFMS200: Activate Conversion of 60-50 Invoices
+
+EXIT_SAPLFMPA_006 RFFMS200: Deactivate Conversion of Overpayments
+
+EXIT_SAPLFMPY_001 Priorities for Availability Control in Payment Program
+
+EXIT_SAPLFMPY_002 Determine FM Account Assignment in Payment Program
+
+EXIT_SAPLFMRI_001 Define Data Compression for FMIFIIT/FMIT
+
+EXIT_SAPLFMRI_002 Account Determination for Figures Without Clearing
+
+EXIT_SAPLFMRI_003 Fill User Dimension: FI Documents
+
+EXIT_SAPLFMRW_001 No longer used
+
+EXIT_SAPLFMRW_002 No longer used
+
+EXIT_SAPLFMWR_001 User Exit for Filling the OBJNRZ Field
+
+EXIT_SAPLFMWR_002 Overriding of Mandatory Derivation (FM Account Assignment/Acct/CO Object)
+
+EXIT_SAPLFMWR_003 User Exit for Authorization Check During Posting
+
+EXIT_SAPLFRC4_001 Determine FM Account Assignment from Maintenance Order
+
+EXIT_SAPLFRC4_002 Determine FM Account Assignment from SD Order
+
+EXIT_SAPLFRC4_003 Determine FM Account Assignment from Network Activities
+
+EXIT_SAPLFRC4_004 Determine FM Account Assignment from Networks
+
+XFOR Payment Media Program User Exits
+
+EXIT_RFFOEXIT_001 User Exit Foreign DME Germany Data Record T
+
+EXIT_RFFOEXIT_002 User Exit Domestic DME Germany Data Record C
+
+EXIT_RFFOEXIT_003 User Exit Domestic DME Germany Data Record A
+
+EXIT_RFFOEXIT_021 User Exit Domestic DME Netherlands Format BGC
+
+EXIT_RFFOEXIT_022 User Exit Domestic DME Netherlands Format ClieOp02
+
+EXIT_RFFOEXIT_041
+
+EXIT_RFFOEXIT_042
+
+EXIT_RFFOEXIT_043
+
+EXIT_RFFOEXIT_061 User Exit for Swiss SAD TA05
+
+EXIT_RFFOEXIT_062 User Exit for Swiss SAD TA11
+
+EXIT_RFFOEXIT_063 User Exit for Swiss BAD TA48
+
+EXIT_RFFOEXIT_064 User Exit for Swiss SAD TA12
+
+EXIT_RFFOEXIT_065 User Exit for Swiss SAD TA14
+
+EXIT_RFFOEXIT_066 User Exit for Swiss SAD TA25
+
+EXIT_RFFOEXIT_071 User Exit for Swiss DME TA826
+
+EXIT_RFFOEXIT_072 User Exit for Swiss DME TA827
+
+EXIT_RFFOEXIT_073 User Exit for Swiss DME TA830
+
+EXIT_RFFOEXIT_074 User Exit for Swiss DME TA832
+
+EXIT_RFFOEXIT_075 User Exit for Swiss DME TA870
+
+EXIT_RFFOEXIT_081 User Exit Data Medium Exchange France Foreign
+
+EXIT_RFFOEXIT_082 User Exit Data Medium Exchange France Foreign
+
+EXIT_RFFOEXIT_100 User Exit DME USA File Header Record
+
+EXIT_RFFOEXIT_101 User Exit DME USA Batch Header Record
+
+EXIT_RFFOEXIT_102 User Exit DME USA - CCD Record
+
+EXIT_RFFOEXIT_103 User Exit DME USA - CTX Record
+
+EXIT_RFFOEXIT_104 User Exit DME USA - Addenda Record
+
+EXIT_RFFOEXIT_105 User Exit DME USA - Batch Control Record
+
+EXIT_RFFOEXIT_200 User Exit MTS Format New Zealand for Transaction Record
+
+EXIT_RFFOEXIT_210 User Exit BECS Format Australia for the Header Record
+
+EXIT_RFFOEXIT_211 User Exit BECS Format Australia for the Transaction record
+
+EXIT_RFFOEXIT_230 User Exit Foreign DME Japan Data Records 2 and 6
+
+EXIT_RFFOEXIT_240 Customer Exit V3 Format Austria (RFFOAT_P)
+
+EXIT_RFFOEXIT_250 Customer Exit Foreign-PAYMUL Denmark (RFFODK_E)
+
+EXIT_RFFOEXIT_900 MT100 International Data Medium Exchange User Exit
+
+EXIT_RFFOEXIT_901 User Exit MT100 Header
+
+EXIT_RFFOEXIT_902 User Exit MT100 Trailer
+
+XFOS Payment Medium - IS
+
+EXIT_RFFOEXI2_910 User Exit International Data Medium Exchange MT200
+
+EXIT_RFFOEXI2_911 User Exit International Data Medium Exchange MT200 Header
+
+EXIT_RFFOEXI2_912 User Exit International Data Medium Exchange MT200 Trailer
+
+EXIT_RFFOEXI2_913 User Exit International Data Medium Exchange MT210
+
+EXIT_RFFOEXI2_914 User Exit International Data Medium Exchange MT210 Header
+
+EXIT_RFFOEXI2_915 User Exit International Data Medium Exchange MT210 Trailer
+
+EXIT_RFFOEXI2_916 User Exit International Data Medium Exchange MT202
+
+EXIT_RFFOEXI2_917 User Exit International Data Medium Exchange MT202 Header
+
+EXIT_RFFOEXI2_918 User Exit International Data Medium Exchange MT202 Trailer
+
+XFR1 User Exits for Floor Ready Merchandise
+
+EXIT_SAPLWFR23_001 User Exit: Fill LIKP from KOMDLGN for Additionals Check
+
+EXIT_SAPLWFR23_002 User Exit: Fill LIPS from KOMDLGN or Additionals Check
+
+EXIT_SAPLWFR2_001 User Exit for Distributing Remaining Quantities
+
+EXIT_SAPLWFR3_001 User Exit for Correcting Results after Checking for Double Procurement
+
+EXIT_SAPLWFR4_001 User Exit: Closing of Deliveries in Merchandise Distribution
+
+EXIT_SAPLWFR5_001 User Exit: Adjusting Quantity Distribution at GR
+
+EXIT_SAPLWFR9_001 User Exit: Display Distribution for Compiling Field Catalog List
+
+EXIT_SAPLWFR9_002 User Exit: Display Distribution for Filling Output Area (Procurement Lev.)
+
+EXIT_SAPLWFR9_003 User Exit: Display Distribution for Filling Output Area (Issue Level)
+
+EXIT_SAPMWFRM8_001 Quantity Distribution when Subitems Maintained
+
+XFRR User Exit: Financial Information System
+
+EXIT_RFDRRANZ_001 AR Info System:User Exit for Texts for Cust.-Spec.Grouping Characteristics
+
+EXIT_RFKRRANZ_001 AP Info System:User Exit for Texts for Cust.-Spec.Grouping Characteristics
+
+XFTA Treasury Modifications
+
+EXIT_FTR_INCONF00_001 User Exit - Incoming Confirmations - Request Transactions
+
+EXIT_FTR_INCONF00_002 User Exit - Incoming Confirmations - Returns Data
+
+EXIT_RFTX70SO_001 User Exit for Adding Own Rates to Fixing Report
+
+EXIT_RFTXEXIT_300 Customer Exit SWIFT MT300 - Fields
+
+EXIT_RFTXEXIT_301 Customer Exit SWIFT MT300 - Header
+
+EXIT_RFTXEXIT_302 User Exit mt300 - Trailer
+
+EXIT_RFTXEXIT_320 Customer Exit SWIFT MT320 - Fields
+
+EXIT_RFTXEXIT_321 User Exit MT320 Header
+
+EXIT_RFTXEXIT_322 User Exit mt320 - Trailer
+
+XFV1
+
+EXIT_SAPLFV96_001
+
+XFV2 TR-TM-LO: Loans - Evaluations
+
+EXIT_RFVDBZI0_001 User Exit for RFVDBZI0
+
+XFV3 User Exits for Clerk/Activity
+
+EXIT_SAPLFVP5_001 User Exit for Clerk F4 Help
+
+XFV6 ISIS Securities: Various User Exits
+
+EXIT_SAPLFVVT_100 ISIS Securities - Securities Account Transfer, 'Save' Function
+
+EXIT_SAPLFVVT_110 ISIS Securities - Securities Account Transfer, Other Flows when 'Posting'
+
+EXIT_SAPMF64G_001 ISIS Securities - Sec. Account Transfer, Parameter Transfer to SUBSCREEN
+
+EXIT_SAPMF64G_010 ISIS Securities - Securities Account Transfer, Cash Flow Transfers
+
+EXIT_SAPMF64L_100 ISIS Securities - Sec. Account Master Data, Check Module for All Fields
+
+XFV7 User Exits for Transfer Posting
+
+EXIT_SAPMF67B_001 User Exit 01 Capital Transfer
+
+XFVC User Exits for FVZF
+
+EXIT_SAPLFVZF_001 User Exit for Contract-Specific Checks for FB01
+
+XFVD Customer Functions for SAPLFVDA
+
+EXIT_RFVDTX01_001 User Exit zur Nachbearbeitung eines SAPscript-Dokuments
+
+EXIT_SAPLFVD2_001 User Exit for Incoming Payment Postprocessing
+
+EXIT_SAPLFVDA_001 User Exit IS-IS Disbursement with PAI
+
+EXIT_SAPLFVDA_002 User Exit for IS-IS Disbursement with PBO
+
+EXIT_SAPLFVDD_001 User Exit for FB TEXT_INTERFACE
+
+EXIT_SAPLFVDD_002 User Exit for Document Selection
+
+EXIT_SAPLFVOR_003 User Exit for Calculating Interest on Arrears
+
+EXIT_SAPLFVOR_004 User Exit for Generating Postings for the Relevant Interest on Arrears
+
+EXIT_SAPLFVPB_001 User Exit 001: Post Interest on Arrears in Open Item List
+
+EXIT_SAPLFVZV_002 User Exit for Plausibility Checks, VWL, Block/Levy upon Property...
+
+XFVNBO FVVD
+
+EXIT_SAPLFVN_BUS_OPERATION_001 Customer Functions for SAPLFvn_bus_operation
+
+XFVP
+
+EXIT_RFVDPF01_001
+
+EXIT_SAPLFVDD_003
+
+XFVZ User Exit for IS-IS Partner/Address Mgmt
+
+EXIT_RFVZFD00_001 Release: Exclusion of Individual Records in the Loans Release List
+
+XFYT User exit for tax interface
+
+EXIT_SAPLFYTX_USER_001 User exit for changing tax fields (with max tax functionality)
+
+EXIT_SAPLV61A_001
+
+XGDX User Exits Transactions GDX
+
+EXIT_SAPLGD13_001 Exit for Authority Check of Transfer Prices
+
+EXIT_SAPLGDX3_001 Authority Check Function Group GDX3
+
+EXIT_SAPLGDX3_002 Authority Check Function Group GDX3, Totals Record Display
+
+XGMD User Exits for Master Data
+
+EXIT_SAPLGUMD_001 Master Data User Exits for Reading Text
+
+EXIT_SAPLGUMD_002 User exits for master data - check value
+
+EXIT_SAPLGUMD_003 Master data user exits for reading value set
+
+EXIT_SAPLGUMD_004 Master data user exits - FREE internally used tables
+
+EXIT_SAPLGUMD_005 User exits for master data - REFRESH internally used tables
+
+EXIT_SAPLGUMD_006 User exits for master data - add record with period-dependent add. info.
+
+EXIT_SAPLGUMD_007 User Exits for Master Data - Derive Record with Period-Independent Info.
+
+XGPLN User Exits for Planning
+
+EXIT_SAPLGPL1_001 Extended Master Data and Authorization Validations
+
+XGRP User Exits W&S Preliminary Planning
+
+EXIT_SAPLV53C_001 W&S: Rough Workload Calculation in Time per Item
+
+EXIT_SAPLV53C_002 W&S: Rough Workload Estimate Derivation Shipping Material Type/Time Slot
+
+XGSET Sets: Customer enhancements
+
+EXIT_SAPLGSUT_001 Customer exit to replace set IDs
+
+XGVTR FI Balance C/F: User Exits SAPFGVTR
+
+EXIT_SAPLGVTR_001 Option to Change Standard Carry Forward Procedure of Ledger
+
+XHAL HR-CA: Function Exits for HR-ALE
+
+EXIT_SAPLRHA0_001 HR-CA: ALE Outbound Processing With Receiver Determination Enhancement
+
+EXIT_SAPLRHA0_002 HR-CA: Export Parameters of ALE Inbound Processing IDOC_INPUT_HRMD
+
+EXIT_SAPLRHA0_003 HR-CA: Import Parameters of ALE Inbound Processing IDOC_INPUT_HRMD
+
+EXIT_SAPLRHA0_004 HR-CA: ALE Outbound Processing: Control Record
+
+EXIT_SAPLRHA0_005 HR-CA: ALE Inbound Processing: Check Object
+
+EXIT_SAPLRHAL_001 HR-CA: ALE Outbound Processing: Change IDoc
+
+EXIT_SAPLRHAL_002 HR-CA: ALE Inbound Processing: Changing Infotype Data
+
+EXIT_SAPLRHAL_003 HR-CA: ALE Outbound Processing: Converting Infotype / Segment
+
+EXIT_SAPLRHAL_004 HR-CA: ALE Inbound Processing: Converting Segment / Infotype
+
+XHDK Customer Exits for Danish HR Master Data
+
+EXIT_SAPLHRBAS09_REPORT_PR_001 Customer Exit for Report Data for Employee Reports
+
+EXIT_SAPLHR_DK_CAR_INFTY_009 User Exit: Calculate Value of Company Car (HR-DK)
+
+XHFR PS Reporting - Drilldown: User Exits
+
+EXIT_SAPLHFRR_001 KAHF User Exit for data selection in commercial project reporting
+
+XHGB FuGr RHGB User Field
+
+EXIT_SAPLRHGB_001 Additional information on / off
+
+EXIT_SAPLRHGB_002 Text Fill Customer-Specific Field
+
+EXIT_SAPLRHGB_003 Header Fill Customer-Specific Field
+
+XHGP FuGr RHGP User Field
+
+EXIT_SAPLRHGP_001 Additional information on / off
+
+EXIT_SAPLRHGP_002 Text fill customer-specific field
+
+EXIT_SAPLRHGP_003 Header fill customer-specific field
+
+XHIV HR-OM: Customer-Specific No. Assignment
+
+EXIT_SAPLRHIN_001 Customer exit: Check number ranges for integration
+
+EXIT_SAPLRHIV_001 Customer exit: Internal number assignment
+
+EXIT_SAPLRHIV_002 Customer exit: Check external numbers
+
+EXIT_SAPLRHIV_003 Customer exit: Check whether internal number assignment is available
+
+XHK1 Function group for Enhencement (HK)
+
+EXIT_HHKCALC0_001 User exit to calculate EE's YOS
+
+EXIT_HHKCALC0_006 HK: wage type in IT cumulated to which technical wage types
+
+EXIT_HHKCTXB0_002 IR56B USER EXIT
+
+EXIT_HHKCTXB0_003 hr-hk: user exit for ir56B form
+
+EXIT_HHKCTXB0_004 user exit for special fields
+
+EXIT_HHKCTXB0_005 hr-hk: prt out user defineded fields
+
+EXIT_HHKCTXB0_007 HK: RETRO DIFF BACK TO OLD TAX YEAR
+
+EXIT_HHKCTXE0_002 IR56E USER EXIT
+
+EXIT_HHKCTXE0_003 hr-hk: user exit for ir56e form
+
+EXIT_HHKCTXE0_004 hr-hk: user exit for special field
+
+EXIT_HHKCTXE0_005 hr-hk: prt out user defineded fields
+
+EXIT_HHKCTXE0_007 HK: RETRO DIFF BACK TO OLD TAX YEAR
+
+EXIT_HHKCTXF0_002 IR56F USER EXIT
+
+EXIT_HHKCTXF0_003 hr-hk: user exit for ir56f form
+
+EXIT_HHKCTXF0_004 hr-hk: user exit for special field
+
+EXIT_HHKCTXF0_005 hr-hk: prt out user defineded fields
+
+EXIT_HHKCTXF0_007 HK: RETRO DIFF BACK TO OLD TAX YEAR
+
+EXIT_HHKCTXG0_002 IR56G USER EXIT
+
+EXIT_HHKCTXG0_003 hr-hk: user exit for ir56g form
+
+EXIT_HHKCTXG0_004 hr-hk: user exit for special field
+
+EXIT_HHKCTXG0_005 hr-hk: prt out user defineded fields
+
+EXIT_HHKCTXG0_007 HK: RETRO DIFF BACK TO OLD TAX YEAR
+
+XHRBAS00ACTIONS User Exits HRBAS00ACTIONS
+
+EXIT_SAPLHRBAS00ACTIONS_001 Customer Enhancement for Special Personnel Actions
+
+XHRSPAZA Salary packaging Customer exits
+
+EXIT_SAPLHRSPAZA_001 Customer exit - convert amounts and set rounding type
+
+XHRTRVSTAT Customer Exits for Trip Statistics
+
+EXIT_SAPLHRTRV_STAT_001 Deletion/Reorganization of Trip Statistics
+
+EXIT_SAPLHRTRV_STAT_002 Create/Change Trip Statistics
+
+XHRV Norwegian HR Function Module Exits
+
+EXIT_RPLLONV0_001 Get deposit account values from RT
+
+EXIT_RPLLONV0_002 Gets deposit account information externally - Loan notif.
+
+EXIT_RPSSSBV0_001 HR-no: SSB. Creating alternative positional code mapping
+
+EXIT_RPSSSBV0_002 HR-NO: SSB: Fields special_1 to special_3.
+
+EXIT_RPSSSBV0_003 HR-NO: SSB: exit for choosing EIS
+
+EXIT_SAPLPS09_001 PS: Enhancement of EIS sender structure for accounting
+
+EXIT_SAPLPS09_002 PS: Enhancement of EIS sender structure for logistics
+
+XPTDW Customer Exit: Time Data Extractor
+
+EXIT_SAPLHRMS_BIW_PTDW_001 Customer Exit for Time Data Extractor - Hours According to Personal WS
+
+EXIT_SAPLHRMS_BIW_PTDW_002 Customer Exit for Time Data Extractor: Time and Labor (Employee Times)
+
+EXIT_SAPLHRMS_BIW_PTDW_003 Customer Exit for Time Data Extractor: Quota Transaction Data
+
+XPTG User Exit for Pay Scale Reclassification
+
+EXIT_RPITIG00_001 User Exit for Pay Scale Reclass. Acc. to Completed Working Time (RPITIG00)
+
+XPTR User Exists: REM Planning Table
+
+EXIT_SAPLPTRM_001 User Exit for Lead Column in REM Planning Table
+
+XPVE Customer enhancement: Venezuela
+
+EXIT_HVECALC0_001 Extension to control transfer and deletion of payroll tables
+
+EXIT_HVECALC0_002 Extension to control advance payment assessment basis division
+
+EXIT_HVECALC0_003
+
+EXIT_HVECALC0_004
+
+EXIT_HVECALC0_005
+
+EXIT_HVECALC0_006
+
+EXIT_HVECALC0_007 Enhancement to process profit share pro-rata
+
+EXIT_HVECALC0_008 Enhancement to process payment advance
+
+EXIT_HVECALC0_009 Enhancement to control generation of split WBPB in termination
+
+EXIT_HVECTER0_001
+
+XQAA Inspection Type Determination
+
+EXIT_SAPLQAAT_002 Inspection Type Determination for Variant 01
+
+EXIT_SAPLQAAT_003 QAAT0002
+
+EXIT_SAPLQPL1_005 Inspection Type Determination for Variant 01
+
+XQAP Customer Exit Insp. Point Processing
+
+EXIT_SAPLQAPP_001 Customer Exit 1 for Inspection Point Processing
+
+EXIT_SAPLQAPP_002 Customer Exit 2 for Inspection Point Processing
+
+EXIT_SAPLQAPP_003 Customer Exit 3 for Inspection Point Processing (IDI)
+
+EXIT_SAPLQAPP_004 Customer Exit 4 for Inspection Point Processing (Partial Lot Default)
+
+EXIT_SAPLQAPP_005 Create partial lot
+
+EXIT_SAPLQAPP_006 User Function Key Call CTRL-F11
+
+EXIT_SAPLQAPP_007 User Function Key Call CTRL-F12
+
+EXIT_SAPLQAPP_008 Control Confirmation Indicator
+
+XQBC Customer Functions in SAPLQBCK
+
+EXIT_SAPLQBCK_001 Customer Function for Determining Texts for Purchase Order Printout
+
+EXIT_SAPLQBCK_002 Enhanced Inspection for Procurement Activity
+
+EXIT_SAPLQBCK_003 Enhanced QM Inspections at Goods Receipt
+
+XQC1 Customer Functions: Quality Certificates
+
+EXIT_SAPLQC10_001 QM Certificates: User Exit for List of Batches Used
+
+EXIT_SAPLQC10_002 QM Certificates: User Exit for Initializing Customer Modules
+
+EXIT_SAPLQC10_003 QM Certs: User Exit Changing Criteria for Cert. Profile Determination
+
+EXIT_SAPLQC10_004 QM Certificates: User-Exit Before Call-Up of Form Printout
+
+EXIT_SAPLQC10_005 QM Certificates: User Exit Based on Certificate Profile Determination
+
+EXIT_SAPLQC10_006 QM Certificates: User Exit Based on the Delivery Data
+
+EXIT_SAPLQC10_007 QM Certificates: User Exit for Changing Certificate Profile Chars
+
+EXIT_SAPLQC10_008 QM Certificates: User Exit for Changing the Customer Number
+
+XQCE Customer Functions: Quality Cert. IDoc
+
+EXIT_SAPLQCE1_001 Customer Enhancement for IDoc Types Quality01, Outbox
+
+EXIT_SAPLQCE1_002 Customer Enhancement for IDoc Types Quality01, Inbox
+
+EXIT_SAPLQCE1_003 Find Purchase Order Item for Certificate
+
+EXIT_SAPLQCE1_004 Change Certificate Record for Electronic Inbox
+
+XQCP Customer Functions GR Qual. Certificates
+
+EXIT_RQCPRM10_001 Change Address Before Printing Certificate Reminder
+
+XQCV Customer Functions: Quality Certificates
+
+EXIT_RQCAAP00_001 Customer Function Reports: New Fields for Cert. Profile Determination
+
+EXIT_RQCAAP00_002 Cust. Fn Reps: Evaluate Criteria for Limiting Insp./Partial Lot Selection
+
+EXIT_RQCAAP01_001 Customer Function Reports: New Fields for Cert. Profile Determination
+
+EXIT_RQCAAP02_001 Customer Function Reports: New Fields for Cert. Profile Determination
+
+EXIT_RQCAAP02_002 Cust. Fn Reps: Evaluate Criteria for Limiting Insp./Partial Lot Selection
+
+EXIT_SAPLQC07_001 Customer Function Reports: New Fields for Cert. Profile Determination
+
+EXIT_SAPLQC07_002 Cust. Fn Reps: Evaluate Criteria for Limiting Insp./Partial Lot Selection
+
+EXIT_SAPMQCPA_001 Customer Function Control Data for Certificate Profile Characteristic
+
+EXIT_SAPMQCPA_002 Cust. Func. Certs: Criteria for Limiting Insp. Lot / Part. Lot Selection
+
+EXIT_SAPMQCPA_003 QM Certificate Profile: Inclusion of New Chars in Certificate Profile
+
+EXIT_SAPMQCPA_004 Customer Function: Cert. Profile Menu (Cert. Profile, Function Code +US4)
+
+EXIT_SAPMQCPA_005 Customer Function Menu Certificate Proflie (Edit, Function Code *US5)
+
+EXIT_SAPMQCPA_006 Customer Function Menu Cert. Profile (Environment, Function Code +US6)
+
+EXIT_SAPMQCPA_007 QM Certificates: Transfer of Data to Subscreen 0100
+
+EXIT_SAPMQCPA_008 QM Certificates: Transfer of Data from Subscreen 0100 to Cert. Profile
+
+XQCW Quality Certs on the World Wide Web
+
+EXIT_SAPLQC07_003 Quality Certs on the World Wide Web: Authorization mats for Customers
+
+EXIT_SAPLQC07_004 Quality Certificates on the World Wide Web: Customer Finds Materials
+
+EXIT_SAPLQC07_005 Quality Certificates on the World Wide Web: Limit Materials for Customer
+
+XQDQ Customer Functions:Dynamic Modification
+
+EXIT_SAPLQDQL_001 Influence on Q-Level Update
+
+EXIT_SAPLQDQV_001 Import Influence on Q-Level
+
+EXIT_SAPLQDQV_002 Influence of Determined Inspection Stage for Sample Determination
+
+EXIT_SAPLQDQV_003 Exit for Inspection Stage at Automatic Creation of Quality Level
+
+EXIT_SAPMQDQL_001 Import Q-Level
+
+XQEE Customer Functions: Results Recording
+
+EXIT_SAPLQEEM_001 Customer Function for Calculating Formulas in Results Recording
+
+EXIT_SAPLQEEM_002 Customer Function: Add. Fns for Importing Insp. Chars in Results Recording
+
+EXIT_SAPLQEEM_003 Customer Function: Add. Functions After Valuating Insp. Characteristics
+
+EXIT_SAPLQEEM_004 Customer Function: Add. Functions After Valuating Partial Samples
+
+EXIT_SAPLQEEM_006 Customer Function: Add. Functions After Closing Insp. Characteristics
+
+EXIT_SAPLQEEM_007 Customer Exit: Additional Functions After Closing Partial Samples
+
+EXIT_SAPLQEEM_011 Customer Function: Add. Functions Before Valuating Insp. Characteristics
+
+EXIT_SAPLQEEM_012 Customer Function: Additional Functions Before Valuating Partial Samples
+
+EXIT_SAPLQEEM_015 Customer Function: Add. Functions After Entering Individual Results
+
+EXIT_SAPLQEEM_020 Customer Function: Additional Functions After Entering Inspector
+
+EXIT_SAPLQEEM_021 Customer Function: Add. Functions for User Key +US1 (Char. Single Screen)
+
+EXIT_SAPLQEEM_022 Customer Function: Add. Functions for User Key +US2 (Char. Single Screen)
+
+EXIT_SAPLQEEM_023 Customer Function: Add. Functions for User Key +US3 (Char. Single Screen)
+
+EXIT_SAPLQEEM_024 Customer Function: Add. Functions for User Key +US4 (Char. Single Screen)
+
+EXIT_SAPLQEEM_025 Customer Function: Add. Functions for User Key +US1 as Pushbutton
+
+EXIT_SAPLQEEM_026 Customer Function: Add. Functions for User Key +US2 as Pushbutton
+
+EXIT_SAPLQEEM_027 Customer Function: Add. Functions for User Key +US3 as Pushbutton
+
+EXIT_SAPLQEEM_028 Customer Function: Add. Functions for User Key +US4 as Pushbutton
+
+EXIT_SAPLQEEM_029 Customer-Function for Subscreen Characteristic Overview
+
+EXIT_SAPLQEEM_030 Customer Function for Subscreen Characteristic Single Screen
+
+EXIT_SAPLQEEM_031 Customer Function Creating Table with External Numbers
+
+EXIT_SAPLQEEM_032 Customer Function Characteristic Text in Logon Language
+
+EXIT_SAPLQEEV_001 Customer Functions: Results Recording
+
+EXIT_SAPLQEEV_002 User Exit: Create Char. Specs. for Insp. Lot Before Dynamic Modification
+
+EXIT_SAPLQEEV_003 Determination of Order Type for Printing Inspection Instruction
+
+EXIT_SAPLQEEV_004 Determination of Order Type for Printing Sample-Drawing Instruction
+
+EXIT_SAPMQEEA_020 Customer Function: Additional Functions After Entering Inspector
+
+XQEV Customer Functions: UD
+
+EXIT_SAPLQLCO_001 Altenative Cost Report for QM Order
+
+EXIT_SAPLQSS1_001 Trigger for Printing Inspection Report
+
+EXIT_SAPMQEVA_001 Customer Function Quantity Posting UD
+
+EXIT_SAPMQEVA_002 Customer Exit: Calculate Share of Scrap for Lot
+
+EXIT_SAPMQEVA_003 Customer Exit for Calculating Next Inspection Date
+
+EXIT_SAPMQEVA_004 Customer Exit for Changing Status Line in UD Header
+
+EXIT_SAPMQEVA_005 Transfer of Inspection Lot Data to User Screen
+
+EXIT_SAPMQEVA_006 Entry to usage decision transactions
+
+EXIT_SAPMQEVA_007 Control of Compulsory Comment and Preassignment of UD Long Text
+
+EXIT_SAPMQEVA_008 Module for Editing Customer Function Code
+
+EXIT_SAPMQEVA_009 Quantity Default Value to be Posted 'to Sample'
+
+EXIT_SAPMQEVA_010 Checking the Usage Decision
+
+XQIR Customer Functions: QM-IDI
+
+EXIT_SAPLQIRF_021 Customer Function Before Processing in QIRF_SEND_INSP_REQUIRMENTS
+
+EXIT_SAPLQIRF_022 Customer Function After Processing in QIRF_SEND_INSP_REQUIRMENTS
+
+EXIT_SAPLQIRF_051 Customer Function Before Processing in QIRF_SEND_INSP_DATA_FOR_WL
+
+EXIT_SAPLQIRF_052 Customer Function after Processing in QIRF_SEND_INSP_DATA_FOR_WL
+
+EXIT_SAPLQIRF_101 Customer Function Before Processing in QIRF_GET_ORIGINAL_VALUES
+
+EXIT_SAPLQIRF_102 Customer Function After Processing in QIRF_GET_ORIGINAL_VALUES
+
+EXIT_SAPLQIRF_111 Customer Function Before Processing in QIRF_GET_SAMPLE_VALUES
+
+EXIT_SAPLQIRF_112 Customer Function After Processing in QIRF_GET_SAMPLE_VALUES
+
+EXIT_SAPLQIRF_121 Customer Function Before Processing in QIRF_GET_FEATURE_VALUES
+
+EXIT_SAPLQIRF_122 Customer Function After Processing in QIRF_GET_FEATURE_VALUES
+
+EXIT_SAPLQIRF_131 Customer Function Before Processing in QIRF_GET_ALL_DATA_VALUES
+
+EXIT_SAPLQIRF_132 Customer Function After Processing in QIRF_GET_ALL_DATA_VALUES
+
+EXIT_SAPLQIRF_141 Customer Function Before Processing in QIRF_GET_USAGE_DECISION
+
+EXIT_SAPLQIRF_142 Customer Function After Processing in QIRF_GET_USAGE_DECISION
+
+EXIT_SAPLQIRF_171 Customer Function Before Processing in QIRF_GET_INSP_POINT
+
+EXIT_SAPLQIRF_172 Customer Function After Processing in QIRF_GET_INSP_POINT
+
+XQIS Function Exits: QM-STI Interface
+
+EXIT_SAPLQIST_001 Generation of Report Header
+
+EXIT_SAPLQIST_002 Generation of Material Data
+
+EXIT_SAPLQIST_003 Generation of Vendor Data
+
+EXIT_SAPLQIST_004 Generation of Characteristic Header
+
+EXIT_SAPLQIST_005 Generation of Quantitative Characteristic
+
+EXIT_SAPLQIST_007 Generation of Sample Header
+
+EXIT_SAPLQIST_008 Generation of Additional Data for Results
+
+EXIT_SAPLQIST_009 Generation of Quantitative Results
+
+EXIT_SAPLQIST_010 Generation of Method Data
+
+XQLI QM Customer Functions:Vendor Evaluation
+
+EXIT_SAPLQLIB_001 Customer Function for Selecting Lots for Vendor Evaluation
+
+EXIT_SAPLQLIB_002 Customer Function for Calculating Q-Scores
+
+EXIT_SAPLQLIB_003 Customer Exit: Notification Selection for Vendor Evaluation
+
+EXIT_SAPLQLIB_004 Customer Exit: Calculation of Complaint Score
+
+XQMC Cust. Exits when Reading Configuration
+
+EXIT_SAPLQMCF_001 Customer Exit for Reading Configuration/Material Specification
+
+XQMS Customer Exits Specification
+
+EXIT_SAPLQMSP_001 Customer Exit for Reading Specification
+
+EXIT_SAPLQMSP_002 Customer Exit for Characteristic Valuation of Batch Classification
+
+EXIT_SAPLQMSP_003 Customer Exit Based on Characteristic Valuation
+
+XQPA Customer Functions: SAPLQPAA Module Pool
+
+EXIT_SAPLQPAA_001 Customer Function for Formula Testing in SAPLQPAA
+
+EXIT_SAPLQPAA_002 Customer Function for PLMKB Info Fields
+
+EXIT_SAPLQPAA_003 Authorization Check for Characteristics in Task List
+
+EXIT_SAPLQPAA_004 Deactivate Functions in PF Status
+
+EXIT_SAPLQPAA_005 Additional Testing for Error List: Inspection Characteristic in Task List
+
+EXIT_SAPLQPAP_001 Customer Exit After Reading Task List
+
+EXIT_SAPLQPAP_002 Customer Function for Task List Selection
+
+EXIT_SAPLQPAP_003 Converting Sample Units of Measure when Reading Plans
+
+EXIT_SAPMQPDA_001 Where-Used List Master Characteristics
+
+XQPL Customer Functions: Inspection Lot
+
+EXIT_SAPLQLCO_002 Activities Confirmation Default Values for QM Order
+
+EXIT_SAPLQPL1_001 Predefine Selection Parameters for Task List Selection from Inspection Lot
+
+EXIT_SAPLQPL1_002 Customer Function for Changing QALS Work Area
+
+EXIT_SAPLQPL1_003 Sample Calculation for Inspection Lots Without Chars (Object Type QL3)
+
+EXIT_SAPLQPL1_004 Transfer of Inspection Lot Data to User Screen
+
+EXIT_SAPLQPL1_006 Transfer of Inspection Lot Data from User Screen
+
+EXIT_SAPLQPL1_007 Assign Order Type for QM Order
+
+XQPR Customer Functions: Physical Sample
+
+EXIT_SAPLQPRP_001 Determination of Order Type for Printing Physical-Sample Labels
+
+EXIT_SAPLQPRS_001 Customer Enhancement: Function Code '+FC1' in 'Physical Sample' Menu
+
+EXIT_SAPLQPRS_002 Customer Enhancement: Function Code 'FC2' in 'Edit' Menu
+
+EXIT_SAPLQPRS_003 Customer Enhancement: Function Code 'FC3' in 'Environment' Menu
+
+EXIT_SAPLQPRS_004 Customer Enhancement: Number Assignment for Physical-Sample Master
+
+EXIT_SAPLQPRS_005 Transfer of Data From Physical-Sample Master Record to User Screen
+
+EXIT_SAPLQPRS_006 Customer Enhancement for Manual Creation of Physical-Sample Master Records
+
+EXIT_SAPLQPRS_007 Transfer of Sample Data From User Screen
+
+EXIT_SAPLQPRS_008 Service of Customer Include Fields During Automatic Creation
+
+XQQM Customer Exits QM/PM Notifications
+
+EXIT_SAPLCORU_S_001 QM: Create Notif. from Confirmation of Production Order
+
+EXIT_SAPLIBER_001 Customer Exit: Authorization Check for Notification Transactions
+
+EXIT_SAPLIQS0_002 User Exit for Influencing the F4 Help for Catalogs
+
+EXIT_SAPLIQS0_003 Function Code "+US3/4" in Menu "Goto/Task" in Notification Processing
+
+EXIT_SAPLIQS0_004 Function Code "+US5/6" in Menu "Goto/Activities" in Notif. Processing
+
+EXIT_SAPLIQS0_005 Determining Processing Deadlines According to Priority
+
+EXIT_SAPLIQS0_006 Default Partner When Adding A Notification
+
+EXIT_SAPLIQS0_007 Determination of BOM application for BOM Explosion
+
+EXIT_SAPLIQS0_008 Supply Function Codes with Text/ Deactivate Codes: "Goto/Task"
+
+EXIT_SAPLIQS0_009 Supply Function Codes/ Deactivate Codes: "Goto/Activity"
+
+EXIT_SAPLIQS0_010 Function Codes in Menu "Goto/Notification" in Notification Processing
+
+EXIT_SAPLIQS0_011 Supply Function Codes with Text/ Deactivate Codes: "Goto/Notification"
+
+EXIT_SAPLIQS0_012 Function Codes in "Goto/Cause" Menu in Notification Processing
+
+EXIT_SAPLIQS0_013 Supply Function Codes with Text/ Deactivate Codes: "Goto/Cause"
+
+EXIT_SAPLIQS0_014 Function Codes in Menu "Goto/Item" in Notification Processing
+
+EXIT_SAPLIQS0_015 Supply Function Codes with Text/Deactivate Codes: "Goto/Item"
+
+EXIT_SAPLIQS0_016 Function Module for Deactivating Notification Function Codes
+
+EXIT_SAPLQAUT_001 Customer Exit: Authorization Check for Notification Transactions
+
+EXIT_SAPMIWO0_001 Default Values When Creating a Notification
+
+EXIT_SAPMIWO0_002 Customer Exit: Authorization Check for Notification Transactions
+
+EXIT_SAPMIWO0_004 Function Code "+US1" in Menu "Goto" During Notification Processing
+
+EXIT_SAPMIWO0_005 Function Code "+US2" in Menu "Goto/Item" During Notification Processing
+
+EXIT_SAPMIWO0_006 User Exit "Check Authorization for Status Change"
+
+EXIT_SAPMIWO0_007 Automatic Determination of Tasks for Quality Notifications
+
+EXIT_SAPMIWO0_008 Customer Exit: Transfer Notification Data to User Screen
+
+EXIT_SAPMIWO0_009 Customer Exit: Transfer Notification Data from User Screen
+
+EXIT_SAPMIWO0_010 Customer Exit: Transfer Item Data to User Screen
+
+EXIT_SAPMIWO0_011 Customer Exit: Transfer Item Data from User Screen
+
+EXIT_SAPMIWO0_012 Customer Exit: Supply QM Order Parameters with Default Values
+
+EXIT_SAPMIWO0_013 Customer Exit: Transfer Cause to User Screen
+
+EXIT_SAPMIWO0_014 Customer Exit: Transfer Cause from User Screen
+
+EXIT_SAPMIWO0_015 Customer Exit: Transfer Task to User Screen
+
+EXIT_SAPMIWO0_016 Customer Exit: Transfer Task from User Screen
+
+EXIT_SAPMIWO0_017 Customer Exit: Transfer Activity to User Screen
+
+EXIT_SAPMIWO0_018 Customer Exit: Transfer Activity from User Screen
+
+EXIT_SAPMIWO0_019 Default Values When Creating a Task
+
+EXIT_SAPMIWO0_020 Customer Exit: Checks before Saving Notification
+
+EXIT_SAPMIWO0_021 Default Values When Creating a Task
+
+XQRE User Exits: Reorganization
+
+EXIT_SAPFQREO_001 Cust. Fn: Determining the Retention Period for an Insp. Lot in Archiving
+
+EXIT_SAPFQREO_002 Customer Function Deleting QM Inspection Setup
+
+XQSB Customer Exits: Inspection Catalogs
+
+EXIT_SAPMQSBA_001 Customer Exit After Import of Data to Code Group
+
+EXIT_SAPMQSBA_002 Customer Exit After Import of Data to Selected Set
+
+XQSC Customer Exits: Inspection Methods
+
+EXIT_SAPMQSCA_001 Customer Exit Inspection Methods for Info Fields
+
+EXIT_SAPMQSCA_002 Customer Exit After Import of Data to Inspection Method
+
+EXIT_SAPMQSCA_003 Customer Exit for Search Field for Inspection Method
+
+EXIT_SAPMQSCA_004 Customer Exit Before Saving Data in the Inspection Method
+
+XQSD Customer Exits:Master Inspection Chars.
+
+EXIT_SAPLQPSD_001 Customer Exit While Reading a Master Inspection Characteristic Version
+
+EXIT_SAPMQSDA_001 Customer Exit for Maintenance of Master Inspection Characteristics
+
+EXIT_SAPMQSDA_002 Customer Exit After Import of Data to Master Inspection Characteristic
+
+EXIT_SAPMQSDA_003 Customer Exit for Search Field of Master Inspection Characteristic
+
+EXIT_SAPMQSDA_004 Customer Exit Before saving Data in Master Inspection Characteristic
+
+XQSM Enhancements for Serial Number Mgt
+
+EXIT_SAPLIE01_005 Serial Numbers, User Exit in the Update
+
+EXIT_SAPLIE01_007 Serial Numbers, User Exit in Goods Movement
+
+EXIT_SAPLIPW1_001 Automatic Serial Number Assignment
+
+EXIT_SAPLIPW1_002 Check on Copying Object List
+
+EXIT_SAPLIPW1_003 Serial Numbers, User Exit for Additional Fields
+
+EXIT_SAPLIPW1_004 Serial Numbers, User Exit After Exiting the Serial Screen
+
+EXIT_SAPLIPW1_008 Check of Serial Number - Character String
+
+XQUE SAP Query: Enhancements
+
+EXIT_RSAQEXCE_001 SAP Query: Private data file
+
+XQVD Customer Functions for SAPMQVDM
+
+EXIT_SAPLQAAT_001 Determination of Delivery Type for Insp.Lot Acc. to Del. Note/Info Record
+
+EXIT_SAPMQVDM_001 Customer Function for Info Field 10 in SAPMQVDM
+
+EXIT_SAPMQVDM_002 Customer Function for Info Field 20 in SAPMQVDM
+
+EXIT_SAPMQVDM_003 Customer Function for Info Field 40 in SAPMQVDM
+
+EXIT_SAPMQVDM_004 Customer Function for Initial Transaction Screen
+
+EXIT_SAPMQVDM_005 Customer Function for Authorization Check for Material Detail Screen
+
+EXIT_SAPMQVDM_006 Customer Function: Input Check of Delivery Type in SAPMQVDM
+
+XRB0 PY-BE User exit for Belcotax
+
+EXIT_RPCTXAB0_001 User Exit for creation of level 2 record (employee data)
+
+EXIT_RPCTXAB0_004 User Exit for further adaption of level 2 record
+
+EXIT_RPCTXAB0_005 User Exit for final adaption of level 2 record
+
+EXIT_RPCTXAB0_006 User Exit for adaption of level 2 record by wage type eval. classes
+
+XREP Customer Exit Reporting
+
+EXIT_SAPLSABE_010 Exit at beginning of program
+
+XRF0
+
+EXIT_SAPL36CU_001
+
+XRFC RFC enhancements
+
+EXIT_RSRFCRFC_001 SM59: Authorization for a Menu option
+
+XRG0 HR-GB: User exits for GB payroll
+
+EXIT_RPCALCG0_001 User-exit for HR-GB pensions in payroll: define basis for calculations
+
+EXIT_RPCEDTG0_001 HR-GB: conversion G3 in renum.statement
+
+EXIT_SAPLHRG0_001 HR-GB: User Exits for GB payroll - pensions
+
+EXIT_SAPLHRG3_001 HR-GB: User exit for pension calculations
+
+XRG1 HR-GB: User Exit
+
+EXIT_RPCALCG0_002 HR-GB: User-exit for tax periods
+
+XRGX Agency Business: User Exits 2
+
+EXIT_SAPLWLF1_003 Enhancement: Data Transfer Pricing Payment Documents
+
+EXIT_SAPLWLF2_005 Agency Business: Enhancement - Determine Invoice List Date
+
+EXIT_SAPLWLFI_001 Enhancement: Agency Business: Profitability Segment Determination
+
+EXIT_SAPLWLFO_001 Enhancement: Agency Business: Method of Determining Cash Discount
+
+EXIT_SAPLWLFO_002 AB Enhancement: Method of Determining Cash Discount Checks at Item Level
+
+XRHPV RHPV User Exits (Day-To-Day Activities)
+
+EXIT_SAPLRHPV_001 User Exit for Checks When Booking/Replacing/Rebooking
+
+XRI0 HR-IT: User exits for Italian payroll
+
+EXIT_RPC770I0_001 User Exit for 770: municipality key
+
+EXIT_RPC770I0_002 User Exit for 770: fiscal domicile
+
+EXIT_RPC770I0_003 User Exit for 770: qualification 12 and 13
+
+EXIT_RPC770I0_004 User Exit for 770: Master data
+
+EXIT_RPC770I0_006 User Exit for 770: Previous ERs (Fiscal part -SA)
+
+EXIT_RPC770I0_007 User Exit for 770: Previous ERs (Fiscal part -SA)
+
+EXIT_RPC770I0_008 User Exit for 770: previous years (Fiscal part -SA)
+
+EXIT_RPC770I0_009 User Exit for 770: box 20 (Fiscal part -SA)
+
+EXIT_RPC770I0_011 User Exit for 770: Contributive entity (Welfare part -SA)
+
+EXIT_RPC770I0_012 User Exit for 770: Contributive entity (Welfare part -SA)
+
+EXIT_RPC770I0_013 User Exit for 770: Contributive entity (Welfare part -SA)
+
+EXIT_RPC770I0_014 User Exit for 770: Contributive entity (Welfare part -SA)
+
+EXIT_RPC770I0_015 User Exit for 770: Contributive entity (Welfare part -SA)
+
+EXIT_RPC770I0_016 User Exit for 770: Contributive entity (Welfare part -SA)
+
+EXIT_RPC770I0_017 User Exit for 770: Contributive entity (Welfare part -SA)
+
+EXIT_RPC770I0_018 User Exit for 770: Contributive entity (Welfare part -SA)
+
+EXIT_RPC770I0_019 User Exit for 770: Contributive entity (Welfare part -SA)
+
+EXIT_RPC770I0_020 User Exit for 770: Contributive entity (INPDAP part-SA)
+
+EXIT_RPC770I0_021 User Exit for 770: Contributive entity (INAIL part-SA)
+
+EXIT_RPC770I0_022 User Exit for 770: Contributive entity (SA-part: Sect. 3)
+
+EXIT_RPC770I0_024 User Exit for 770: Modify infotype 0483 (Section SD)
+
+EXIT_RPC770I0_025 User Exit for 770: assistance 2000 (Section SD-Irpef)
+
+EXIT_RPC770I0_026 User Exit for 770: assistance 2000 (Section SD- 1 advance pay)
+
+EXIT_RPC770I0_027 User Exit for 770: assistance 2000 (Section SD- regional)
+
+EXIT_RPC770I0_028 User Exit for 770: assistance 2000 (Section SD- municipal)
+
+EXIT_RPC770I0_029 User Exit for 770: assistance 2000 (Section SD- separate taxation)
+
+EXIT_RPC770I0_030 User Exit for 770: assistance 2000 (Section SD- 2 advance pay)
+
+EXIT_RPC770I0_031 User Exit for 770: adjustments (Section SD- Month)
+
+EXIT_RPC770I0_032 User Exit for 770: adjustments (Section SD- Amounts)
+
+EXIT_RPC770I0_033 User Exit for 770: adjustments (Section SD- 2 installment)
+
+EXIT_RPC770I0_035 User Exit for 770: Settlement (SD section - Point 61)
+
+EXIT_RPC770I0_036 User Exit for 770: Settlement (SD section - Point 64)
+
+EXIT_RPC770I0_037 User Exit for 770: Settlement (SD section - Point 74)
+
+EXIT_RPC770I0_038 User Exit for 770: Adjustment (SD section - Point 76)
+
+EXIT_RPC770I0_040 e User Exit for 770: Adjustments (SD Section- CAF related data)
+
+EXIT_RPC770I0_053 User Exit for 770: Company Change: Box 44
+
+EXIT_RPC770I0_054 User Exit for 770: Temse generation
+
+EXIT_RPC770I0_080 severance indemnity payment (with interface file)
+
+EXIT_RPC770I0_081 Other allowances (with interface file)
+
+EXIT_RPC770I0_082 SB section: boxes 27, 28, 37 (with interface file)
+
+EXIT_RPC770I0_083 SB section: remaining boxes (with interface file)
+
+EXIT_RPC770I0_084 Severance Indemnity payment (generic case)
+
+EXIT_RPC770I0_085 Other allowances (generic case)
+
+EXIT_RPC770I0_086 SB section: boxes 27, 28, 37 (generic case)
+
+EXIT_RPC770I0_087 SB section: remaining boxes (generic case)
+
+EXIT_RPC770I0_088 other allowances: early retirement and capital
